@@ -1,3 +1,5 @@
+# loading packages
+
 library(gifski)
 library(ggplot2)
 library(gganimate)
@@ -5,8 +7,12 @@ library(lubridate)
 library(tidyr)
 library(dplyr)
 
+# loading in data
+
 majors <- read.csv(file.choose(), header = T)
 head(majors)
+
+# formatting data
 
 majors_formatted <- majors %>%
   filter(Major.Desc != "Undeclared" & Major.Desc != "Non-Degree Seeking") %>%
@@ -14,6 +20,8 @@ majors_formatted <- majors %>%
   mutate(Rank = rank(-Count, ties.method = "first")) %>%
   filter(Rank <= 20)
 head(majors_formatted)
+
+# plotting
 
 p <- ggplot(majors_formatted, aes(Rank, group = Major.Desc, fill = as.factor(Major.Desc), color = as.factor(Major.Desc))) +
   geom_tile(aes(y = Count/2, height = Count, width = 0.9), alpha = 0.8, color = NA) +
@@ -33,6 +41,7 @@ p <- ggplot(majors_formatted, aes(Rank, group = Major.Desc, fill = as.factor(Maj
   exit_fade() +
   ease_aes('cubic-in-out')
 
-animate(p, fps = 15, duration = 40, width = 800, height = 600, end_pause = 60)
+# animating and saving
 
+animate(p, fps = 15, duration = 40, width = 800, height = 600, end_pause = 60)
 anim_save("majors_over_time.gif")
