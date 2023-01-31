@@ -1,0 +1,1504 @@
+Year,College Code,College Desc,Major Code,Major Desc,Count
+2012,0,No College Designated,0,Non-Degree Seeking,229
+2012,BU,College of Business,ACC,Accounting,883
+2012,BU,College of Business,CAC,Certificate-Accounting,5
+2012,BU,College of Business,CIN,Computer Information Systems,442
+2012,BU,College of Business,ECO,Economics,129
+2012,BU,College of Business,FIN,Finance,352
+2012,BU,College of Business,IDP,Individualized Degree Program,13
+2012,BU,College of Business,MGT,Management,1144
+2012,BU,College of Business,MKT,Marketing,683
+2012,ED,School of Education,LECE,Licensure-Early Childhood Educ,1
+2012,ED,School of Education,LEDS,Licensure-Secondary Education,6
+2012,ED,School of Education,LEED,Licensure-Elementary Education,4
+2012,ED,School of Education,LK12,Licensure-K-12 Education,2
+2012,ED,School of Education,LSPL,Licensure-Special Education,2
+2012,ED,School of Education,SED,Special Education,2
+2012,LA,"College of Letters, Arts, & Sciences",AAS,African American Studies,11
+2012,LA,"College of Letters, Arts, & Sciences",ANT,Anthropology,183
+2012,LA,"College of Letters, Arts, & Sciences",ART,Art,921
+2012,LA,"College of Letters, Arts, & Sciences",ARTH,"ArtHistory,Theory&Criticism",1
+2012,LA,"College of Letters, Arts, & Sciences",BHS,Behavioral Science,494
+2012,LA,"College of Letters, Arts, & Sciences",BIO,Biology,1397
+2012,LA,"College of Letters, Arts, & Sciences",CHE,Chemistry,332
+2012,LA,"College of Letters, Arts, & Sciences",CHS,Chicano Studies,37
+2012,HS,College of Health & Applied Science,CSI,Computer Science,416
+2012,LA,"College of Letters, Arts, & Sciences",CSL,Certificate-SpcLangPathlgyAsst,1
+2012,LA,"College of Letters, Arts, & Sciences",ENG,English,633
+2012,LA,"College of Letters, Arts, & Sciences",ENV,Environmental Science,336
+2012,LA,"College of Letters, Arts, & Sciences",HDV,Human Development,483
+2012,LA,"College of Letters, Arts, & Sciences",HIS,History,536
+2012,LA,"College of Letters, Arts, & Sciences",IDP,Individualized Degree Program,164
+2012,LA,"College of Letters, Arts, & Sciences",JRN,Journalism,1
+2012,LA,"College of Letters, Arts, & Sciences",LIN,Linguistics,22
+2012,LA,"College of Letters, Arts, & Sciences",LUS,Land Use,144
+2012,LA,"College of Letters, Arts, & Sciences",MDL,Modern Languages,211
+2012,LA,"College of Letters, Arts, & Sciences",MED,Music Education,118
+2012,LA,"College of Letters, Arts, & Sciences",MTH,Mathematics,248
+2012,LA,"College of Letters, Arts, & Sciences",MTR,Meteorology,61
+2012,LA,"College of Letters, Arts, & Sciences",MUS,Music,282
+2012,LA,"College of Letters, Arts, & Sciences",PHI,Philosophy,87
+2012,LA,"College of Letters, Arts, & Sciences",PHY,Physics,88
+2012,LA,"College of Letters, Arts, & Sciences",PSC,Political Science,237
+2012,LA,"College of Letters, Arts, & Sciences",PSY,Psychology,1136
+2012,LA,"College of Letters, Arts, & Sciences",SLH,Speech Lang & Hearing Science,119
+2012,LA,"College of Letters, Arts, & Sciences",SOC,Sociology,173
+2012,LA,"College of Letters, Arts, & Sciences",SPC,Speech Communication,320
+2012,LA,"College of Letters, Arts, & Sciences",SWK,Social Work,390
+2012,LA,"College of Letters, Arts, & Sciences",THE,Theatre,162
+2012,LA,"College of Letters, Arts, & Sciences",UND,Undeclared,1856
+2012,LA,"College of Letters, Arts, & Sciences",WMS,Women's Studies,22
+2012,HS,College of Health & Applied Science,AMG,Aviation Management,86
+2012,HS,College of Health & Applied Science,ATH,Athletic Training,115
+2012,HS,College of Health & Applied Science,ATV,Aviation Technology,414
+2012,HS,College of Health & Applied Science,CET,Civil Engineering Technology,208
+2012,HS,College of Health & Applied Science,CJC,Criminal Justice & Criminology,1287
+2012,HS,College of Health & Applied Science,EET,Electrical Engineering Tech,229
+2012,HS,College of Health & Applied Science,HCM,Health Care Management,267
+2012,HS,College of Health & Applied Science,HMT,"Hospitality, Meeting & Tvl Adm",2
+2012,HS,College of Health & Applied Science,HND,Human Nutrition - Dietetics,442
+2012,HS,College of Health & Applied Science,HPS,Human Performance & Sport,693
+2012,HS,College of Health & Applied Science,HSP,Human Services,512
+2012,HS,College of Health & Applied Science,HTE,"Hospitality, Tourism & Events",657
+2012,HS,College of Health & Applied Science,IDP,Individualized Degree Program,39
+2012,HS,College of Health & Applied Science,IND,Industrial Design,257
+2012,HS,College of Health & Applied Science,ITP,Integrative Therapeutic Pract,151
+2012,LA,"College of Letters, Arts, & Sciences",JRN,Journalism,362
+2012,ED,School of Education,LECE,Licensure-Early Childhood Educ,24
+2012,ED,School of Education,LEDS,Licensure-Secondary Education,84
+2012,ED,School of Education,LEED,Licensure-Elementary Education,72
+2012,ED,School of Education,LK12,Licensure-K-12 Education,36
+2012,ED,School of Education,LSPL,Licensure-Special Education,26
+2012,ED,School of Education,LTIR,Licensure-Teacher in Residence,91
+2012,ED,School of Education,LTLG,Licensure-General Teacher Lic,36
+2012,HS,College of Health & Applied Science,MET,Mechanical Engineering Tech,310
+2012,HS,College of Health & Applied Science,NUR,Nursing,183
+2012,HS,College of Health & Applied Science,RECR,Recreation Professions,86
+2012,HS,College of Health & Applied Science,SED,Special Education,192
+2012,HS,College of Health & Applied Science,SUM,Surveying & Mapping,5
+2012,HS,College of Health & Applied Science,TCM,Technical Communications,180
+2012,HS,College of Health & Applied Science,TLC,Pre-Early Childhood Education,4
+2012,HS,College of Health & Applied Science,TLE,Pre-Elementary Education,7
+2012,HS,College of Health & Applied Science,TLK,Pre-K-12 Education,8
+2012,HS,College of Health & Applied Science,TLP,Pre-Special Education,3
+2012,HS,College of Health & Applied Science,TLS,Pre-Secondary Education,5
+2012,HS,College of Health & Applied Science,UNN,Undeclared Nursing Interest,428
+2013,0,No College Designated,0,Non-Degree Seeking,233
+2013,BU,College of Business,ACC,Accounting,849
+2013,BU,College of Business,CAC,Certificate-Accounting,1
+2013,BU,College of Business,CIN,Computer Information Systems,467
+2013,BU,College of Business,ECO,Economics,146
+2013,BU,College of Business,FIN,Finance,358
+2013,BU,College of Business,IDP,Individualized Degree Program,19
+2013,BU,College of Business,MDL,Modern Languages,1
+2013,BU,College of Business,MGT,Management,1100
+2013,BU,College of Business,MKT,Marketing,677
+2013,LA,"College of Letters, Arts, & Sciences",MTH,Mathematics,1
+2013,ED,School of Education,LECE,Licensure-Early Childhood Educ,5
+2013,ED,School of Education,LEDS,Licensure-Secondary Education,22
+2013,ED,School of Education,LEED,Licensure-Elementary Education,12
+2013,ED,School of Education,LK12,Licensure-K-12 Education,7
+2013,ED,School of Education,LSPL,Licensure-Special Education,4
+2013,ED,School of Education,SED,Special Education,8
+2013,LA,"College of Letters, Arts, & Sciences",AAS,African American Studies,13
+2013,LA,"College of Letters, Arts, & Sciences",AFS,Africana Studies,1
+2013,LA,"College of Letters, Arts, & Sciences",ANT,Anthropology,152
+2013,LA,"College of Letters, Arts, & Sciences",ART,Art,823
+2013,LA,"College of Letters, Arts, & Sciences",ARTH,"ArtHistory,Theory&Criticism",17
+2013,LA,"College of Letters, Arts, & Sciences",BHS,Behavioral Science,303
+2013,LA,"College of Letters, Arts, & Sciences",BIO,Biology,1365
+2013,LA,"College of Letters, Arts, & Sciences",CDES,Communication Design,12
+2013,LA,"College of Letters, Arts, & Sciences",CHE,Chemistry,290
+2013,LA,"College of Letters, Arts, & Sciences",CHS,Chicano Studies,27
+2013,LA,"College of Letters, Arts, & Sciences",CJC,Criminal Justice & Criminology,1
+2013,HS,College of Health & Applied Science,CS,Computer Science,132
+2013,HS,College of Health & Applied Science,CSI,Computer Science,307
+2013,LA,"College of Letters, Arts, & Sciences",ENG,English,597
+2013,LA,"College of Letters, Arts, & Sciences",ENV,Environmental Science,337
+2013,LA,"College of Letters, Arts, & Sciences",HCM,Health Care Management,1
+2013,LA,"College of Letters, Arts, & Sciences",HDV,Human Development,504
+2013,LA,"College of Letters, Arts, & Sciences",HIS,History,516
+2013,LA,"College of Letters, Arts, & Sciences",IDP,Individualized Degree Program,126
+2013,LA,"College of Letters, Arts, & Sciences",JRN,Journalism,20
+2013,LA,"College of Letters, Arts, & Sciences",LIN,Linguistics,41
+2013,LA,"College of Letters, Arts, & Sciences",LUS,Land Use,161
+2013,LA,"College of Letters, Arts, & Sciences",MDL,Modern Languages,178
+2013,LA,"College of Letters, Arts, & Sciences",MED,Music Education,116
+2013,LA,"College of Letters, Arts, & Sciences",MTH,Mathematics,236
+2013,LA,"College of Letters, Arts, & Sciences",MTR,Meteorology,55
+2013,LA,"College of Letters, Arts, & Sciences",MUS,Music,272
+2013,LA,"College of Letters, Arts, & Sciences",PHI,Philosophy,81
+2013,LA,"College of Letters, Arts, & Sciences",PHY,Physics,77
+2013,LA,"College of Letters, Arts, & Sciences",PSC,Political Science,221
+2013,LA,"College of Letters, Arts, & Sciences",PSY,Psychology,1100
+2013,LA,"College of Letters, Arts, & Sciences",SLH,Speech Lang & Hearing Science,107
+2013,LA,"College of Letters, Arts, & Sciences",SOC,Sociology,145
+2013,LA,"College of Letters, Arts, & Sciences",SPC,Speech Communication,273
+2013,LA,"College of Letters, Arts, & Sciences",SWK,Social Work,384
+2013,LA,"College of Letters, Arts, & Sciences",THE,Theatre,152
+2013,LA,"College of Letters, Arts, & Sciences",UND,Undeclared,1732
+2013,LA,"College of Letters, Arts, & Sciences",WMS,Women's Studies,27
+2013,HS,College of Health & Applied Science,AAM,Aviation & Aerospace Mgt,18
+2013,HS,College of Health & Applied Science,AMG,Aviation Management,57
+2013,HS,College of Health & Applied Science,ASC,Aviation and Aerospace Science,95
+2013,HS,College of Health & Applied Science,ATH,Athletic Training,166
+2013,HS,College of Health & Applied Science,ATV,Aviation Technology,298
+2013,HS,College of Health & Applied Science,CET,Civil Engineering Technology,202
+2013,HS,College of Health & Applied Science,CJC,Criminal Justice & Criminology,1200
+2013,HS,College of Health & Applied Science,EET,Electrical Engineering Tech,246
+2013,HS,College of Health & Applied Science,ENG,English,1
+2013,HS,College of Health & Applied Science,HCM,Health Care Management,294
+2013,HS,College of Health & Applied Science,HIS,History,1
+2013,HS,College of Health & Applied Science,HMT,"Hospitality, Meeting & Tvl Adm",4
+2013,HS,College of Health & Applied Science,HND,Human Nutrition - Dietetics,489
+2013,HS,College of Health & Applied Science,HPS,Human Performance & Sport,662
+2013,HS,College of Health & Applied Science,HSP,Human Services,489
+2013,HS,College of Health & Applied Science,HTE,"Hospitality, Tourism & Events",708
+2013,HS,College of Health & Applied Science,IDP,Individualized Degree Program,79
+2013,HS,College of Health & Applied Science,IND,Industrial Design,251
+2013,HS,College of Health & Applied Science,ITP,Integrative Therapeutic Pract,187
+2013,LA,"College of Letters, Arts, & Sciences",JRN,Journalism,341
+2013,ED,School of Education,LECE,Licensure-Early Childhood Educ,11
+2013,ED,School of Education,LEDS,Licensure-Secondary Education,67
+2013,ED,School of Education,LEED,Licensure-Elementary Education,48
+2013,ED,School of Education,LK12,Licensure-K-12 Education,22
+2013,ED,School of Education,LSPL,Licensure-Special Education,9
+2013,ED,School of Education,LTIR,Licensure-Teacher in Residence,85
+2013,ED,School of Education,LTLG,Licensure-General Teacher Lic,32
+2013,HS,College of Health & Applied Science,MDL,Modern Languages,1
+2013,HS,College of Health & Applied Science,MET,Mechanical Engineering Tech,350
+2013,HS,College of Health & Applied Science,MGT,Management,2
+2013,HS,College of Health & Applied Science,NUR,Nursing,201
+2013,HS,College of Health & Applied Science,PSY,Psychology,3
+2013,HS,College of Health & Applied Science,RECR,Recreation Professions,91
+2013,HS,College of Health & Applied Science,SED,Special Education,161
+2013,HS,College of Health & Applied Science,SUM,Surveying & Mapping,1
+2013,HS,College of Health & Applied Science,TCM,Technical Communications,161
+2013,HS,College of Health & Applied Science,TLC,Pre-Early Childhood Education,1
+2013,HS,College of Health & Applied Science,TLE,Pre-Elementary Education,9
+2013,HS,College of Health & Applied Science,TLK,Pre-K-12 Education,4
+2013,HS,College of Health & Applied Science,TLS,Pre-Secondary Education,17
+2013,HS,College of Health & Applied Science,UND,Undeclared,1
+2013,HS,College of Health & Applied Science,UNED,"Education, Undeclared",2
+2013,HS,College of Health & Applied Science,UNN,Undeclared Nursing Interest,409
+2014,0,No College Designated,0,Non-Degree Seeking,232
+2014,BU,College of Business,ACC,Accounting,777
+2014,BU,College of Business,CAC,Certificate-Accounting,2
+2014,BU,College of Business,CIN,Computer Information Systems,429
+2014,BU,College of Business,ECO,Economics,136
+2014,BU,College of Business,FIN,Finance,379
+2014,BU,College of Business,IDP,Individualized Degree Program,15
+2014,BU,College of Business,MGT,Management,1056
+2014,BU,College of Business,MKT,Marketing,635
+2014,ED,School of Education,ELCE,Early Childhood Education,6
+2014,ED,School of Education,LECE,Licensure-Early Childhood Educ,13
+2014,ED,School of Education,LEDS,Licensure-Secondary Education,43
+2014,ED,School of Education,LEED,Licensure-Elementary Education,25
+2014,ED,School of Education,LK12,Licensure-K-12 Education,12
+2014,ED,School of Education,LSPL,Licensure-Special Education,8
+2014,ED,School of Education,LTIR,Licensure-Teacher in Residence,55
+2014,ED,School of Education,SED,Special Education,40
+2014,LA,"College of Letters, Arts, & Sciences",AAS,African American Studies,9
+2014,LA,"College of Letters, Arts, & Sciences",AFS,Africana Studies,6
+2014,LA,"College of Letters, Arts, & Sciences",ANT,Anthropology,113
+2014,LA,"College of Letters, Arts, & Sciences",ART,Art,746
+2014,LA,"College of Letters, Arts, & Sciences",ARTH,"ArtHistory,Theory&Criticism",30
+2014,LA,"College of Letters, Arts, & Sciences",BCHM,Biochemistry,11
+2014,LA,"College of Letters, Arts, & Sciences",BHS,Behavioral Science,150
+2014,LA,"College of Letters, Arts, & Sciences",BIO,Biology,1285
+2014,LA,"College of Letters, Arts, & Sciences",CDES,Communication Design,21
+2014,LA,"College of Letters, Arts, & Sciences",CHE,Chemistry,277
+2014,LA,"College of Letters, Arts, & Sciences",CHS,Chicano Studies,14
+2014,HS,College of Health & Applied Science,CS,Computer Science,309
+2014,HS,College of Health & Applied Science,CSI,Computer Science,201
+2014,LA,"College of Letters, Arts, & Sciences",ENG,English,527
+2014,LA,"College of Letters, Arts, & Sciences",ENV,Environmental Science,309
+2014,LA,"College of Letters, Arts, & Sciences",HDV,Human Development,482
+2014,LA,"College of Letters, Arts, & Sciences",HIS,History,430
+2014,LA,"College of Letters, Arts, & Sciences",IDP,Individualized Degree Program,161
+2014,LA,"College of Letters, Arts, & Sciences",JRN,Journalism,1
+2014,LA,"College of Letters, Arts, & Sciences",LIN,Linguistics,51
+2014,LA,"College of Letters, Arts, & Sciences",LUS,Land Use,133
+2014,LA,"College of Letters, Arts, & Sciences",MDL,Modern Languages,166
+2014,LA,"College of Letters, Arts, & Sciences",MED,Music Education,100
+2014,LA,"College of Letters, Arts, & Sciences",MTH,Mathematics,232
+2014,LA,"College of Letters, Arts, & Sciences",MTR,Meteorology,58
+2014,LA,"College of Letters, Arts, & Sciences",MUS,Music,255
+2014,LA,"College of Letters, Arts, & Sciences",PHI,Philosophy,69
+2014,LA,"College of Letters, Arts, & Sciences",PHY,Physics,82
+2014,LA,"College of Letters, Arts, & Sciences",PSC,Political Science,196
+2014,LA,"College of Letters, Arts, & Sciences",PSY,Psychology,1031
+2014,LA,"College of Letters, Arts, & Sciences",SLH,Speech Lang & Hearing Science,108
+2014,LA,"College of Letters, Arts, & Sciences",SOC,Sociology,121
+2014,LA,"College of Letters, Arts, & Sciences",SPC,Speech Communication,279
+2014,LA,"College of Letters, Arts, & Sciences",SWK,Social Work,331
+2014,LA,"College of Letters, Arts, & Sciences",THE,Theatre,144
+2014,LA,"College of Letters, Arts, & Sciences",UND,Undeclared,1562
+2014,LA,"College of Letters, Arts, & Sciences",WMS,Women's Studies,32
+2014,HS,College of Health & Applied Science,AAM,Aviation & Aerospace Mgt,61
+2014,HS,College of Health & Applied Science,AMG,Aviation Management,27
+2014,HS,College of Health & Applied Science,ASC,Aviation and Aerospace Science,169
+2014,HS,College of Health & Applied Science,ATH,Athletic Training,189
+2014,HS,College of Health & Applied Science,ATV,Aviation Technology,181
+2014,HS,College of Health & Applied Science,CET,Civil Engineering Technology,209
+2014,HS,College of Health & Applied Science,CJC,Criminal Justice & Criminology,1048
+2014,HS,College of Health & Applied Science,EET,Electrical Engineering Tech,252
+2014,ED,School of Education,ELCE,Early Childhood Education,42
+2014,HS,College of Health & Applied Science,HCM,Health Care Management,281
+2014,HS,College of Health & Applied Science,HMT,"Hospitality, Meeting & Tvl Adm",3
+2014,HS,College of Health & Applied Science,HND,Human Nutrition - Dietetics,486
+2014,HS,College of Health & Applied Science,HPS,Human Performance & Sport,624
+2014,HS,College of Health & Applied Science,HSP,Human Services,480
+2014,HS,College of Health & Applied Science,HTE,"Hospitality, Tourism & Events",665
+2014,HS,College of Health & Applied Science,IDP,Individualized Degree Program,76
+2014,HS,College of Health & Applied Science,IHC,Integrative Health Care,33
+2014,HS,College of Health & Applied Science,IND,Industrial Design,235
+2014,HS,College of Health & Applied Science,ITP,Integrative Therapeutic Pract,170
+2014,LA,"College of Letters, Arts, & Sciences",JRN,Journalism,341
+2014,ED,School of Education,LECE,Licensure-Early Childhood Educ,7
+2014,ED,School of Education,LEDS,Licensure-Secondary Education,41
+2014,ED,School of Education,LEED,Licensure-Elementary Education,22
+2014,ED,School of Education,LK12,Licensure-K-12 Education,12
+2014,ED,School of Education,LSPL,Licensure-Special Education,3
+2014,ED,School of Education,LTIR,Licensure-Teacher in Residence,84
+2014,ED,School of Education,LTLG,Licensure-General Teacher Lic,19
+2014,HS,College of Health & Applied Science,MET,Mechanical Engineering Tech,349
+2014,HS,College of Health & Applied Science,NUR,Nursing,244
+2014,HS,College of Health & Applied Science,RECR,Recreation Professions,90
+2014,HS,College of Health & Applied Science,SED,Special Education,125
+2014,HS,College of Health & Applied Science,TCM,Technical Communications,154
+2014,HS,College of Health & Applied Science,TLC,Pre-Early Childhood Education,4
+2014,HS,College of Health & Applied Science,TLE,Pre-Elementary Education,3
+2014,HS,College of Health & Applied Science,TLK,Pre-K-12 Education,6
+2014,HS,College of Health & Applied Science,TLP,Pre-Special Education,2
+2014,HS,College of Health & Applied Science,TLS,Pre-Secondary Education,13
+2014,HS,College of Health & Applied Science,UND,Undeclared,2
+2014,HS,College of Health & Applied Science,UNED,"Education, Undeclared",7
+2014,HS,College of Health & Applied Science,UNN,Undeclared Nursing Interest,539
+2015,0,No College Designated,0,Non-Degree Seeking,246
+2015,BU,College of Business,ACC,Accounting,746
+2015,BU,College of Business,CIN,Computer Information Systems,455
+2015,BU,College of Business,ECO,Economics,161
+2015,BU,College of Business,FIN,Finance,368
+2015,BU,College of Business,IDP,Individualized Degree Program,28
+2015,BU,College of Business,MGT,Management,1013
+2015,BU,College of Business,MKT,Marketing,627
+2015,ED,School of Education,EDU,Elementary Education,88
+2015,ED,School of Education,ELCE,Early Childhood Education,155
+2015,ED,School of Education,IDP,Individualized Degree Program,2
+2015,ED,School of Education,LECE,Licensure-Early Childhood Educ,13
+2015,ED,School of Education,LEDS,Licensure-Secondary Education,61
+2015,ED,School of Education,LEED,Licensure-Elementary Education,42
+2015,ED,School of Education,LK12,Licensure-K-12 Education,20
+2015,ED,School of Education,LSPL,Licensure-Special Education,5
+2015,ED,School of Education,LTIR,Licensure-Teacher in Residence,124
+2015,ED,School of Education,LTLG,Licensure-General Teacher Lic,5
+2015,ED,School of Education,SED,Special Education,156
+2015,ED,School of Education,TLC,Pre-Early Childhood Education,2
+2015,ED,School of Education,TLE,Pre-Elementary Education,3
+2015,ED,School of Education,TLK,Pre-K-12 Education,9
+2015,ED,School of Education,TLP,Pre-Special Education,1
+2015,ED,School of Education,TLS,Pre-Secondary Education,7
+2015,ED,School of Education,UNED,"Education, Undeclared",50
+2015,LA,"College of Letters, Arts, & Sciences",AAS,African American Studies,9
+2015,LA,"College of Letters, Arts, & Sciences",AFS,Africana Studies,12
+2015,LA,"College of Letters, Arts, & Sciences",ANT,Anthropology,93
+2015,LA,"College of Letters, Arts, & Sciences",ART,Art,603
+2015,LA,"College of Letters, Arts, & Sciences",ARTH,"ArtHistory,Theory&Criticism",32
+2015,LA,"College of Letters, Arts, & Sciences",BCHM,Biochemistry,84
+2015,LA,"College of Letters, Arts, & Sciences",BHS,Behavioral Science,71
+2015,LA,"College of Letters, Arts, & Sciences",BIO,Biology,1213
+2015,LA,"College of Letters, Arts, & Sciences",CDES,Communication Design,54
+2015,LA,"College of Letters, Arts, & Sciences",CHE,Chemistry,231
+2015,LA,"College of Letters, Arts, & Sciences",CHS,Chicano Studies,18
+2015,HS,College of Health & Applied Science,CS,Computer Science,409
+2015,HS,College of Health & Applied Science,CSI,Computer Science,115
+2015,LA,"College of Letters, Arts, & Sciences",ENG,English,485
+2015,LA,"College of Letters, Arts, & Sciences",ENV,Environmental Science,283
+2015,LA,"College of Letters, Arts, & Sciences",HDV,Human Development,374
+2015,LA,"College of Letters, Arts, & Sciences",HIS,History,383
+2015,LA,"College of Letters, Arts, & Sciences",IDP,Individualized Degree Program,170
+2015,LA,"College of Letters, Arts, & Sciences",LIN,Linguistics,52
+2015,LA,"College of Letters, Arts, & Sciences",LUS,Land Use,128
+2015,LA,"College of Letters, Arts, & Sciences",MDL,Modern Languages,128
+2015,LA,"College of Letters, Arts, & Sciences",MED,Music Education,92
+2015,LA,"College of Letters, Arts, & Sciences",MTH,Mathematics,224
+2015,LA,"College of Letters, Arts, & Sciences",MTR,Meteorology,54
+2015,LA,"College of Letters, Arts, & Sciences",MUS,Music,207
+2015,LA,"College of Letters, Arts, & Sciences",PHI,Philosophy,50
+2015,LA,"College of Letters, Arts, & Sciences",PHY,Physics,83
+2015,LA,"College of Letters, Arts, & Sciences",PSC,Political Science,195
+2015,LA,"College of Letters, Arts, & Sciences",PSY,Psychology,1026
+2015,LA,"College of Letters, Arts, & Sciences",SLH,Speech Lang & Hearing Science,134
+2015,LA,"College of Letters, Arts, & Sciences",SOC,Sociology,122
+2015,LA,"College of Letters, Arts, & Sciences",SPC,Speech Communication,240
+2015,LA,"College of Letters, Arts, & Sciences",SWK,Social Work,325
+2015,LA,"College of Letters, Arts, & Sciences",THE,Theatre,132
+2015,LA,"College of Letters, Arts, & Sciences",UND,Undeclared,1210
+2015,LA,"College of Letters, Arts, & Sciences",WMS,Women's Studies,31
+2015,HS,College of Health & Applied Science,AAM,Aviation & Aerospace Mgt,85
+2015,HS,College of Health & Applied Science,AMG,Aviation Management,20
+2015,HS,College of Health & Applied Science,ASC,Aviation and Aerospace Science,258
+2015,HS,College of Health & Applied Science,ATH,Athletic Training,192
+2015,HS,College of Health & Applied Science,ATV,Aviation Technology,103
+2015,HS,College of Health & Applied Science,CET,Civil Engineering Technology,188
+2015,HS,College of Health & Applied Science,CJC,Criminal Justice & Criminology,997
+2015,HS,College of Health & Applied Science,EET,Electrical Engineering Tech,238
+2015,HS,College of Health & Applied Science,HCM,Health Care Management,270
+2015,HS,College of Health & Applied Science,HMT,"Hospitality, Meeting & Tvl Adm",1
+2015,HS,College of Health & Applied Science,HND,Human Nutrition - Dietetics,460
+2015,HS,College of Health & Applied Science,HPS,Human Performance & Sport,588
+2015,HS,College of Health & Applied Science,HSP,Human Services,403
+2015,HS,College of Health & Applied Science,HTE,"Hospitality, Tourism & Events",586
+2015,HS,College of Health & Applied Science,IDP,Individualized Degree Program,172
+2015,HS,College of Health & Applied Science,IHC,Integrative Health Care,85
+2015,HS,College of Health & Applied Science,IND,Industrial Design,226
+2015,HS,College of Health & Applied Science,ITP,Integrative Therapeutic Pract,118
+2015,LA,"College of Letters, Arts, & Sciences",JRN,Journalism,289
+2015,HS,College of Health & Applied Science,MET,Mechanical Engineering Tech,342
+2015,HS,College of Health & Applied Science,NUR,Nursing,257
+2015,HS,College of Health & Applied Science,RECR,Recreation Professions,103
+2015,HS,College of Health & Applied Science,SED,Special Education,2
+2015,HS,College of Health & Applied Science,TCM,Technical Communications,146
+2015,HS,College of Health & Applied Science,UNN,Undeclared Nursing Interest,595
+2015,HS,College of Health & Applied Science,WMS,Women's Studies,1
+2016,0,No College Designated,0,Non-Degree Seeking,310
+2016,BU,College of Business,ACC,Accounting,677
+2016,BU,College of Business,CAC,Certificate-Accounting,1
+2016,BU,College of Business,CEP,Certificate-Entrepreneurship,2
+2016,BU,College of Business,CFP,Certificate-Persnl Fin Planng,1
+2016,BU,College of Business,CIN,Computer Information Systems,446
+2016,BU,College of Business,ECO,Economics,131
+2016,BU,College of Business,ENT,Entrepreneurship,10
+2016,BU,College of Business,FIN,Finance,372
+2016,BU,College of Business,GBS,Global Business Studies,2
+2016,BU,College of Business,IBM,International Business,5
+2016,BU,College of Business,IDP,Individualized Degree Program,39
+2016,BU,College of Business,MGT,Management,965
+2016,BU,College of Business,MKT,Marketing,627
+2016,BU,College of Business,PACC,Prep Master Accounting,7
+2016,BU,College of Business,PCEP,PCert-Entrepreneurship,1
+2016,ED,School of Education,EDPB,SOE Applicant-Post-bac,27
+2016,ED,School of Education,EDU,Elementary Education,216
+2016,ED,School of Education,ELCE,Early Childhood Education,170
+2016,ED,School of Education,IDP,Individualized Degree Program,8
+2016,ED,School of Education,LECE,Licensure-Early Childhood Educ,7
+2016,ED,School of Education,LEDS,Licensure-Secondary Education,47
+2016,ED,School of Education,LEED,Licensure-Elementary Education,36
+2016,ED,School of Education,LK12,Licensure-K-12 Education,25
+2016,ED,School of Education,LSPL,Licensure-Special Education,7
+2016,ED,School of Education,LTIR,Licensure-Teacher in Residence,99
+2016,ED,School of Education,LTLG,Licensure-General Teacher Lic,1
+2016,ED,School of Education,PTED,Prep Master Teacher Ed,11
+2016,ED,School of Education,SED,Special Education,150
+2016,ED,School of Education,TLC,Pre-Early Childhood Education,2
+2016,ED,School of Education,TLK,Pre-K-12 Education,8
+2016,ED,School of Education,TLP,Pre-Special Education,1
+2016,ED,School of Education,TLS,Pre-Secondary Education,6
+2016,ED,School of Education,UNED,"Education, Undeclared",68
+2016,LA,"College of Letters, Arts, & Sciences",AAS,African American Studies,7
+2016,LA,"College of Letters, Arts, & Sciences",AFS,Africana Studies,14
+2016,LA,"College of Letters, Arts, & Sciences",ANT,Anthropology,102
+2016,LA,"College of Letters, Arts, & Sciences",ART,Art,570
+2016,LA,"College of Letters, Arts, & Sciences",ARTH,"ArtHistory,Theory&Criticism",30
+2016,LA,"College of Letters, Arts, & Sciences",BCHM,Biochemistry,101
+2016,LA,"College of Letters, Arts, & Sciences",BHS,Behavioral Science,31
+2016,LA,"College of Letters, Arts, & Sciences",BIO,Biology,1233
+2016,LA,"College of Letters, Arts, & Sciences",CBS,Certificate-Spanish Basic Comp,1
+2016,LA,"College of Letters, Arts, & Sciences",CDES,Communication Design,67
+2016,LA,"College of Letters, Arts, & Sciences",CET,Civil Engineering Technology,1
+2016,LA,"College of Letters, Arts, & Sciences",CGIS,Certificate-Geographic Info Sy,2
+2016,LA,"College of Letters, Arts, & Sciences",CHE,Chemistry,225
+2016,LA,"College of Letters, Arts, & Sciences",CHS,Chicano Studies,24
+2016,LA,"College of Letters, Arts, & Sciences",CIN,Computer Information Systems,2
+2016,LA,"College of Letters, Arts, & Sciences",COMS,Communication Studies,72
+2016,HS,College of Health & Applied Science,CS,Computer Science,521
+2016,HS,College of Health & Applied Science,CSI,Computer Science,65
+2016,LA,"College of Letters, Arts, & Sciences",CSL,Certificate-SpcLangPathlgyAsst,8
+2016,LA,"College of Letters, Arts, & Sciences",CSS,Certificate-SLHS-Leveling,8
+2016,LA,"College of Letters, Arts, & Sciences",CST,Certificate-Span Transltn Prog,2
+2016,LA,"College of Letters, Arts, & Sciences",ENG,English,428
+2016,LA,"College of Letters, Arts, & Sciences",ENV,Environmental Science,270
+2016,LA,"College of Letters, Arts, & Sciences",FIN,Finance,1
+2016,LA,"College of Letters, Arts, & Sciences",GSS,Geospatial Sciences,20
+2016,LA,"College of Letters, Arts, & Sciences",HDV,Human Development,283
+2016,LA,"College of Letters, Arts, & Sciences",HIS,History,369
+2016,LA,"College of Letters, Arts, & Sciences",IDP,Individualized Degree Program,201
+2016,LA,"College of Letters, Arts, & Sciences",IDPD,IDP - DIME,44
+2016,LA,"College of Letters, Arts, & Sciences",LIN,Linguistics,50
+2016,LA,"College of Letters, Arts, & Sciences",LUS,Land Use,84
+2016,LA,"College of Letters, Arts, & Sciences",MDL,Modern Languages,133
+2016,LA,"College of Letters, Arts, & Sciences",MED,Music Education,93
+2016,LA,"College of Letters, Arts, & Sciences",MTH,Mathematics,201
+2016,LA,"College of Letters, Arts, & Sciences",MTR,Meteorology,58
+2016,LA,"College of Letters, Arts, & Sciences",MUS,Music,184
+2016,LA,"College of Letters, Arts, & Sciences",PHI,Philosophy,48
+2016,LA,"College of Letters, Arts, & Sciences",PHY,Physics,83
+2016,LA,"College of Letters, Arts, & Sciences",PSC,Political Science,211
+2016,LA,"College of Letters, Arts, & Sciences",PSCL,PCert-Speech-Lang Pathlgy Asst,2
+2016,LA,"College of Letters, Arts, & Sciences",PSWK,Prep Master Social Work,2
+2016,LA,"College of Letters, Arts, & Sciences",PSY,Psychology,999
+2016,LA,"College of Letters, Arts, & Sciences",RECR,Recreation Professions,1
+2016,LA,"College of Letters, Arts, & Sciences",SLH,Speech Lang & Hearing Science,141
+2016,LA,"College of Letters, Arts, & Sciences",SOC,Sociology,119
+2016,LA,"College of Letters, Arts, & Sciences",SPC,Speech Communication,200
+2016,LA,"College of Letters, Arts, & Sciences",SWK,Social Work,292
+2016,LA,"College of Letters, Arts, & Sciences",THE,Theatre,131
+2016,LA,"College of Letters, Arts, & Sciences",UND,Undeclared,964
+2016,LA,"College of Letters, Arts, & Sciences",UNSW,Undeclared Social Work,46
+2016,LA,"College of Letters, Arts, & Sciences",WMS,Women's Studies,30
+2016,HS,College of Health & Applied Science,AAM,Aviation & Aerospace Mgt,101
+2016,HS,College of Health & Applied Science,AMG,Aviation Management,10
+2016,HS,College of Health & Applied Science,ASC,Aviation and Aerospace Science,330
+2016,HS,College of Health & Applied Science,ATH,Athletic Training,191
+2016,HS,College of Health & Applied Science,ATV,Aviation Technology,43
+2016,HS,College of Health & Applied Science,BRWO,Brewery Operations,32
+2016,HS,College of Health & Applied Science,BRWP,Brew Pub Operations,5
+2016,HS,College of Health & Applied Science,CBRW,Certificate-Brewing Science,4
+2016,HS,College of Health & Applied Science,CEE,Certificate-Electric Engg Tech,1
+2016,HS,College of Health & Applied Science,CEM,Certificate-Events Management,4
+2016,HS,College of Health & Applied Science,CET,Civil Engineering Technology,206
+2016,HS,College of Health & Applied Science,CEVT,Certificate-Event & Meeting Mg,1
+2016,HS,College of Health & Applied Science,CHDS,Certificate-HealthDataScience,3
+2016,HS,College of Health & Applied Science,CHM,Certificate-Hotel Management,1
+2016,HS,College of Health & Applied Science,CJC,Criminal Justice & Criminology,982
+2016,HS,College of Health & Applied Science,CNPS,Certificate-Nonprofit Studies,2
+2016,HS,College of Health & Applied Science,CRM,Certificate-Restaurant Mgmt,1
+2016,HS,College of Health & Applied Science,CWC,Certificate-Wellness Coaching,1
+2016,HS,College of Health & Applied Science,EET,Electrical Engineering Tech,205
+2016,HS,College of Health & Applied Science,EVTM,Event & Meeting Management,126
+2016,HS,College of Health & Applied Science,HCIS,Health Care Information System,6
+2016,HS,College of Health & Applied Science,HCM,Health Care Management,273
+2016,HS,College of Health & Applied Science,HND,Human Nutrition - Dietetics,432
+2016,HS,College of Health & Applied Science,HPS,Human Performance & Sport,574
+2016,HS,College of Health & Applied Science,HSP,Human Services,355
+2016,HS,College of Health & Applied Science,HTE,"Hospitality, Tourism & Events",411
+2016,HS,College of Health & Applied Science,IDP,Individualized Degree Program,176
+2016,HS,College of Health & Applied Science,IHC,Integrative Health Care,122
+2016,HS,College of Health & Applied Science,IND,Industrial Design,197
+2016,HS,College of Health & Applied Science,ITP,Integrative Therapeutic Pract,75
+2016,LA,"College of Letters, Arts, & Sciences",JRN,Journalism,276
+2016,HS,College of Health & Applied Science,MET,Mechanical Engineering Tech,368
+2016,HS,College of Health & Applied Science,NUR,Nursing,232
+2016,HS,College of Health & Applied Science,RECR,Recreation Professions,100
+2016,HS,College of Health & Applied Science,SED,Special Education,7
+2016,HS,College of Health & Applied Science,TCM,Technical Communications,135
+2016,HS,College of Health & Applied Science,UNN,Undeclared Nursing Interest,647
+2017,0,No College Designated,0,Non-Degree Seeking,415
+2017,BU,College of Business,ACC,Accounting,660
+2017,BU,College of Business,CEP,Certificate-Entrepreneurship,1
+2017,BU,College of Business,CIN,Computer Information Systems,508
+2017,BU,College of Business,ECO,Economics,130
+2017,BU,College of Business,ENT,Entrepreneurship,113
+2017,BU,College of Business,FIN,Finance,418
+2017,BU,College of Business,GBS,Global Business Studies,30
+2017,BU,College of Business,IBM,International Business,64
+2017,BU,College of Business,IDP,Individualized Degree Program,46
+2017,BU,College of Business,MGT,Management,863
+2017,BU,College of Business,MKT,Marketing,543
+2017,BU,College of Business,PACC,Prep Master Accounting,11
+2017,BU,College of Business,PCEP,PCert-Entrepreneurship,3
+2017,BU,College of Business,PCFP,PCert-Personal Financial Plan,2
+2017,BU,College of Business,PCSA,PCert-Sales,3
+2017,ED,School of Education,EDPB,SOE Applicant-Post-bac,41
+2017,ED,School of Education,EDU,Elementary Education,279
+2017,ED,School of Education,ELCE,Early Childhood Education,204
+2017,ED,School of Education,IDP,Individualized Degree Program,13
+2017,ED,School of Education,LECE,Licensure-Early Childhood Educ,10
+2017,ED,School of Education,LEDS,Licensure-Secondary Education,58
+2017,ED,School of Education,LEED,Licensure-Elementary Education,19
+2017,ED,School of Education,LK12,Licensure-K-12 Education,30
+2017,ED,School of Education,LSPL,Licensure-Special Education,6
+2017,ED,School of Education,LTIR,Licensure-Teacher in Residence,81
+2017,ED,School of Education,PETE,K-12 Physical Education,18
+2017,ED,School of Education,PTED,Prep Master Teacher Ed,6
+2017,ED,School of Education,SED,Special Education,126
+2017,ED,School of Education,TLC,Pre-Early Childhood Education,1
+2017,ED,School of Education,TLK,Pre-K-12 Education,3
+2017,ED,School of Education,TLS,Pre-Secondary Education,4
+2017,ED,School of Education,UNED,"Education, Undeclared",76
+2017,LA,"College of Letters, Arts, & Sciences",AAS,African American Studies,4
+2017,LA,"College of Letters, Arts, & Sciences",AFS,Africana Studies,10
+2017,LA,"College of Letters, Arts, & Sciences",ANT,Anthropology,97
+2017,LA,"College of Letters, Arts, & Sciences",ART,Art,486
+2017,LA,"College of Letters, Arts, & Sciences",ARTE,Art Education,6
+2017,LA,"College of Letters, Arts, & Sciences",ARTH,"ArtHistory,Theory&Criticism",28
+2017,LA,"College of Letters, Arts, & Sciences",BCHM,Biochemistry,131
+2017,LA,"College of Letters, Arts, & Sciences",BHS,Behavioral Science,12
+2017,LA,"College of Letters, Arts, & Sciences",BIO,Biology,1174
+2017,LA,"College of Letters, Arts, & Sciences",CDES,Communication Design,44
+2017,LA,"College of Letters, Arts, & Sciences",CGIS,Certificate-Geographic Info Sy,1
+2017,LA,"College of Letters, Arts, & Sciences",CHE,Chemistry,177
+2017,LA,"College of Letters, Arts, & Sciences",CHS,Chicano Studies,17
+2017,LA,"College of Letters, Arts, & Sciences",COMS,Communication Studies,211
+2017,HS,College of Health & Applied Science,CS,Computer Science,604
+2017,HS,College of Health & Applied Science,CSI,Computer Science,27
+2017,LA,"College of Letters, Arts, & Sciences",CSL,Certificate-SpcLangPathlgyAsst,1
+2017,LA,"College of Letters, Arts, & Sciences",CSS,Certificate-SLHS-Leveling,1
+2017,LA,"College of Letters, Arts, & Sciences",EDPB,SOE Applicant-Post-bac,1
+2017,LA,"College of Letters, Arts, & Sciences",ENG,English,422
+2017,LA,"College of Letters, Arts, & Sciences",ENT,Entrepreneurship,1
+2017,LA,"College of Letters, Arts, & Sciences",ENV,Environmental Science,246
+2017,LA,"College of Letters, Arts, & Sciences",GEG,Geography,34
+2017,LA,"College of Letters, Arts, & Sciences",GELA,Applied Geology,34
+2017,LA,"College of Letters, Arts, & Sciences",GSS,Geospatial Sciences,33
+2017,LA,"College of Letters, Arts, & Sciences",GWS,Gndr Women Sexualities Studies,12
+2017,LA,"College of Letters, Arts, & Sciences",HDV,Human Development,187
+2017,LA,"College of Letters, Arts, & Sciences",HIS,History,344
+2017,LA,"College of Letters, Arts, & Sciences",IDP,Individualized Degree Program,148
+2017,LA,"College of Letters, Arts, & Sciences",IDPD,IDP - DIME,1
+2017,LA,"College of Letters, Arts, & Sciences",JRN,Journalism,2
+2017,LA,"College of Letters, Arts, & Sciences",LIN,Linguistics,44
+2017,LA,"College of Letters, Arts, & Sciences",LUS,Land Use,25
+2017,LA,"College of Letters, Arts, & Sciences",MDL,Modern Languages,134
+2017,LA,"College of Letters, Arts, & Sciences",MED,Music Education,114
+2017,LA,"College of Letters, Arts, & Sciences",MET,Mechanical Engineering Tech,1
+2017,LA,"College of Letters, Arts, & Sciences",MTH,Mathematics,219
+2017,LA,"College of Letters, Arts, & Sciences",MTR,Meteorology,50
+2017,LA,"College of Letters, Arts, & Sciences",MUS,Music,266
+2017,LA,"College of Letters, Arts, & Sciences",PCGI,PCert-Geographic Info Systems,3
+2017,LA,"College of Letters, Arts, & Sciences",PCSS,PCert-SLHS-Leveling,1
+2017,LA,"College of Letters, Arts, & Sciences",PHI,Philosophy,48
+2017,LA,"College of Letters, Arts, & Sciences",PHY,Physics,78
+2017,LA,"College of Letters, Arts, & Sciences",PSC,Political Science,191
+2017,LA,"College of Letters, Arts, & Sciences",PSCL,PCert-Speech-Lang Pathlgy Asst,4
+2017,LA,"College of Letters, Arts, & Sciences",PSY,Psychology,934
+2017,LA,"College of Letters, Arts, & Sciences",SLH,Speech Lang & Hearing Science,125
+2017,LA,"College of Letters, Arts, & Sciences",SOC,Sociology,116
+2017,LA,"College of Letters, Arts, & Sciences",SPC,Speech Communication,98
+2017,LA,"College of Letters, Arts, & Sciences",SWK,Social Work,1
+2017,LA,"College of Letters, Arts, & Sciences",THE,Theatre,136
+2017,LA,"College of Letters, Arts, & Sciences",UND,Undeclared,916
+2017,LA,"College of Letters, Arts, & Sciences",WMS,Women's Studies,25
+2017,HS,College of Health & Applied Science,AAM,Aviation & Aerospace Mgt,106
+2017,HS,College of Health & Applied Science,AMG,Aviation Management,7
+2017,HS,College of Health & Applied Science,AMS,Advncd Manufacturing Sciences,14
+2017,HS,College of Health & Applied Science,ASC,Aviation and Aerospace Science,393
+2017,HS,College of Health & Applied Science,ATH,Athletic Training,92
+2017,HS,College of Health & Applied Science,ATP,Athletic Training,70
+2017,HS,College of Health & Applied Science,ATV,Aviation Technology,15
+2017,HS,College of Health & Applied Science,BRWO,Brewery Operations,57
+2017,HS,College of Health & Applied Science,BRWP,Brew Pub Operations,8
+2017,HS,College of Health & Applied Science,CBPO,Craft Brewing & Pub Operations,5
+2017,HS,College of Health & Applied Science,CBRW,Certificate-Brewing Science,3
+2017,HS,College of Health & Applied Science,CEE,Certificate-Electric Engg Tech,1
+2017,HS,College of Health & Applied Science,CET,Civil Engineering Technology,217
+2017,HS,College of Health & Applied Science,CEVT,Certificate-Event & Meeting Mg,1
+2017,HS,College of Health & Applied Science,CHDS,Certificate-HealthDataScience,4
+2017,HS,College of Health & Applied Science,CHM,Certificate-Hotel Management,1
+2017,HS,College of Health & Applied Science,CJC,Criminal Justice & Criminology,919
+2017,HS,College of Health & Applied Science,CNPS,Certificate-Nonprofit Studies,1
+2017,HS,College of Health & Applied Science,COMS,Communication Studies,1
+2017,HS,College of Health & Applied Science,CPE,Computer Engineering,1
+2017,HS,College of Health & Applied Science,CPM,Construction Project Mngmt,14
+2017,HS,College of Health & Applied Science,CSC,Certificate-Space Commercltzn,1
+2017,HS,College of Health & Applied Science,CWC,Certificate-Wellness Coaching,2
+2017,HS,College of Health & Applied Science,EET,Electrical Engineering Tech,204
+2017,HS,College of Health & Applied Science,EVE,Environmental Engineering,6
+2017,HS,College of Health & Applied Science,EVTM,Event & Meeting Management,173
+2017,HS,College of Health & Applied Science,EXS,Exercise Science,93
+2017,HS,College of Health & Applied Science,FERA,Fire & Emergency Response Adm,51
+2017,HS,College of Health & Applied Science,HCIS,Health Care Information System,20
+2017,HS,College of Health & Applied Science,HCM,Health Care Management,241
+2017,HS,College of Health & Applied Science,HCPS,Health Care Professional Srvcs,11
+2017,HS,College of Health & Applied Science,HND,Human Nutrition - Dietetics,372
+2017,HS,College of Health & Applied Science,HPS,Human Performance & Sport,429
+2017,HS,College of Health & Applied Science,HSP,Human Services,322
+2017,HS,College of Health & Applied Science,HTE,"Hospitality, Tourism & Events",234
+2017,HS,College of Health & Applied Science,HTL,Hotel Management,26
+2017,HS,College of Health & Applied Science,IDP,Individualized Degree Program,124
+2017,HS,College of Health & Applied Science,IHC,Integrative Health Care,143
+2017,HS,College of Health & Applied Science,IND,Industrial Design,200
+2017,HS,College of Health & Applied Science,ITP,Integrative Therapeutic Pract,32
+2017,LA,"College of Letters, Arts, & Sciences",JRN,Journalism,239
+2017,HS,College of Health & Applied Science,MET,Mechanical Engineering Tech,395
+2017,HS,College of Health & Applied Science,NUR,Nursing,226
+2017,HS,College of Health & Applied Science,PCBR,PCert-Brewing Science,3
+2017,HS,College of Health & Applied Science,PCEE,PCert-Electrical EngineerTech,1
+2017,HS,College of Health & Applied Science,PCEV,PCert-Event & Meeting Mgt,3
+2017,HS,College of Health & Applied Science,PCHD,PCert-Health Data Science,1
+2017,HS,College of Health & Applied Science,PCME,PCert-AddManufacturingEngineer,2
+2017,HS,College of Health & Applied Science,PCNP,PCert-Nonprofit Studies,1
+2017,HS,College of Health & Applied Science,PCOR,PCert-Outdoor Rec Leadership,2
+2017,HS,College of Health & Applied Science,PCTM,PCert-Tourism Management,1
+2017,HS,College of Health & Applied Science,PSWK,Prep Master Social Work,3
+2017,HS,College of Health & Applied Science,RECR,Recreation Professions,89
+2017,HS,College of Health & Applied Science,RST,Restaurant Management,8
+2017,HS,College of Health & Applied Science,SM,Sport Management,38
+2017,HS,College of Health & Applied Science,SSE,Sustainable System Engineering,9
+2017,HS,College of Health & Applied Science,SWK,Social Work,243
+2017,HS,College of Health & Applied Science,TCM,Technical Communications,116
+2017,HS,College of Health & Applied Science,TTM,Travel and Tourism Management,19
+2017,HS,College of Health & Applied Science,UNN,Undeclared Nursing Interest,683
+2017,HS,College of Health & Applied Science,UNSW,Undeclared Social Work,153
+2018,0,No College Designated,0,Non-Degree Seeking,387
+2018,0,No College Designated,PUND,Prep External,37
+2018,BU,College of Business,ACC,Accounting,623
+2018,BU,College of Business,CEP,Certificate-Entrepreneurship,1
+2018,BU,College of Business,CFP,Certificate-Persnl Fin Planng,1
+2018,BU,College of Business,CIN,Computer Information Systems,493
+2018,BU,College of Business,ECO,Economics,88
+2018,BU,College of Business,ENT,Entrepreneurship,201
+2018,BU,College of Business,FIN,Finance,410
+2018,BU,College of Business,GBS,Global Business Studies,35
+2018,BU,College of Business,IBM,International Business,100
+2018,BU,College of Business,IDP,Individualized Degree Program,29
+2018,BU,College of Business,MGT,Management,808
+2018,BU,College of Business,MKT,Marketing,536
+2018,BU,College of Business,PACC,Prep Master Accounting,16
+2018,BU,College of Business,PCEP,PCert-Entrepreneurship,3
+2018,BU,College of Business,PCFP,PCert-Personal Financial Plan,2
+2018,BU,College of Business,PCSA,PCert-Sales,4
+2018,ED,School of Education,ART,Art,1
+2018,ED,School of Education,EDPB,SOE Applicant-Post-bac,10
+2018,ED,School of Education,EDU,Elementary Education,326
+2018,ED,School of Education,ELCE,Early Childhood Education,191
+2018,ED,School of Education,IDP,Individualized Degree Program,10
+2018,ED,School of Education,LECE,Licensure-Early Childhood Educ,5
+2018,ED,School of Education,LEDS,Licensure-Secondary Education,51
+2018,ED,School of Education,LEED,Licensure-Elementary Education,9
+2018,ED,School of Education,LK12,Licensure-K-12 Education,18
+2018,ED,School of Education,LSPL,Licensure-Special Education,4
+2018,ED,School of Education,LTIR,Licensure-Teacher in Residence,91
+2018,ED,School of Education,PETE,K-12 Physical Education,58
+2018,ED,School of Education,SED,Special Education,104
+2018,ED,School of Education,TLK,Pre-K-12 Education,1
+2018,ED,School of Education,TLS,Pre-Secondary Education,4
+2018,ED,School of Education,UNED,"Education, Undeclared",97
+2018,LA,"College of Letters, Arts, & Sciences",AFS,Africana Studies,11
+2018,LA,"College of Letters, Arts, & Sciences",ANT,Anthropology,121
+2018,LA,"College of Letters, Arts, & Sciences",ART,Art,396
+2018,LA,"College of Letters, Arts, & Sciences",ARTE,Art Education,33
+2018,LA,"College of Letters, Arts, & Sciences",ARTH,"ArtHistory,Theory&Criticism",24
+2018,LA,"College of Letters, Arts, & Sciences",BCHM,Biochemistry,146
+2018,LA,"College of Letters, Arts, & Sciences",BHS,Behavioral Science,6
+2018,LA,"College of Letters, Arts, & Sciences",BIO,Biology,1031
+2018,LA,"College of Letters, Arts, & Sciences",CDES,Communication Design,60
+2018,LA,"College of Letters, Arts, & Sciences",CGIS,Certificate-Geographic Info Sy,2
+2018,LA,"College of Letters, Arts, & Sciences",CHE,Chemistry,161
+2018,LA,"College of Letters, Arts, & Sciences",CHS,Chicano Studies,14
+2018,LA,"College of Letters, Arts, & Sciences",COMS,Communication Studies,272
+2018,HS,College of Health & Applied Science,CS,Computer Science,604
+2018,HS,College of Health & Applied Science,CSI,Computer Science,12
+2018,LA,"College of Letters, Arts, & Sciences",CST,Certificate-Span Transltn Prog,2
+2018,LA,"College of Letters, Arts, & Sciences",ENG,English,421
+2018,LA,"College of Letters, Arts, & Sciences",ENT,Entrepreneurship,1
+2018,LA,"College of Letters, Arts, & Sciences",ENV,Environmental Science,226
+2018,LA,"College of Letters, Arts, & Sciences",GEG,Geography,43
+2018,LA,"College of Letters, Arts, & Sciences",GELA,Applied Geology,43
+2018,LA,"College of Letters, Arts, & Sciences",GSS,Geospatial Sciences,29
+2018,LA,"College of Letters, Arts, & Sciences",GWS,Gndr Women Sexualities Studies,26
+2018,LA,"College of Letters, Arts, & Sciences",HDV,Human Development,128
+2018,LA,"College of Letters, Arts, & Sciences",HIS,History,304
+2018,LA,"College of Letters, Arts, & Sciences",IDP,Individualized Degree Program,112
+2018,LA,"College of Letters, Arts, & Sciences",JRN,Journalism,3
+2018,LA,"College of Letters, Arts, & Sciences",LIN,Linguistics,48
+2018,LA,"College of Letters, Arts, & Sciences",LUS,Land Use,5
+2018,LA,"College of Letters, Arts, & Sciences",MDL,Modern Languages,106
+2018,LA,"College of Letters, Arts, & Sciences",MED,Music Education,120
+2018,LA,"College of Letters, Arts, & Sciences",MTH,Mathematics,200
+2018,LA,"College of Letters, Arts, & Sciences",MTR,Meteorology,55
+2018,LA,"College of Letters, Arts, & Sciences",MUS,Music,294
+2018,LA,"College of Letters, Arts, & Sciences",PCBA,PCert-BilingualEdSpecAgency,1
+2018,LA,"College of Letters, Arts, & Sciences",PCSS,PCert-SLHS-Leveling,2
+2018,LA,"College of Letters, Arts, & Sciences",PCST,PCert-Spanish Translation Prog,1
+2018,LA,"College of Letters, Arts, & Sciences",PHI,Philosophy,40
+2018,LA,"College of Letters, Arts, & Sciences",PHY,Physics,62
+2018,LA,"College of Letters, Arts, & Sciences",PSC,Political Science,201
+2018,LA,"College of Letters, Arts, & Sciences",PSCL,PCert-Speech-Lang Pathlgy Asst,7
+2018,LA,"College of Letters, Arts, & Sciences",PSY,Psychology,905
+2018,LA,"College of Letters, Arts, & Sciences",SLH,Speech Lang & Hearing Science,109
+2018,LA,"College of Letters, Arts, & Sciences",SOC,Sociology,103
+2018,LA,"College of Letters, Arts, & Sciences",SPC,Speech Communication,41
+2018,LA,"College of Letters, Arts, & Sciences",THE,Theatre,127
+2018,LA,"College of Letters, Arts, & Sciences",UND,Undeclared,852
+2018,LA,"College of Letters, Arts, & Sciences",UNDM,Pre-DIME,1
+2018,LA,"College of Letters, Arts, & Sciences",UNID,Undeclared IDP,55
+2018,LA,"College of Letters, Arts, & Sciences",UNSW,Undeclared Social Work,2
+2018,LA,"College of Letters, Arts, & Sciences",WMS,Women's Studies,12
+2018,HS,College of Health & Applied Science,AAM,Aviation & Aerospace Mgt,100
+2018,HS,College of Health & Applied Science,AMG,Aviation Management,3
+2018,HS,College of Health & Applied Science,AMS,Advncd Manufacturing Sciences,37
+2018,HS,College of Health & Applied Science,ASC,Aviation and Aerospace Science,475
+2018,HS,College of Health & Applied Science,ATH,Athletic Training,50
+2018,HS,College of Health & Applied Science,ATP,Athletic Training,104
+2018,HS,College of Health & Applied Science,ATV,Aviation Technology,5
+2018,HS,College of Health & Applied Science,BJRN,Broadcast Journalism,29
+2018,HS,College of Health & Applied Science,BRWO,Brewery Operations,53
+2018,HS,College of Health & Applied Science,BRWP,Brew Pub Operations,2
+2018,HS,College of Health & Applied Science,CBPO,Craft Brewing & Pub Operations,14
+2018,HS,College of Health & Applied Science,CEE,Certificate-Electric Engg Tech,1
+2018,HS,College of Health & Applied Science,CET,Civil Engineering Technology,213
+2018,HS,College of Health & Applied Science,CHDS,Certificate-HealthDataScience,2
+2018,HS,College of Health & Applied Science,CHM,Certificate-Hotel Management,1
+2018,HS,College of Health & Applied Science,CJC,Criminal Justice & Criminology,928
+2018,HS,College of Health & Applied Science,CPE,Computer Engineering,65
+2018,HS,College of Health & Applied Science,CPM,Construction Project Mngmt,91
+2018,HS,College of Health & Applied Science,CRM,Certificate-Restaurant Mgmt,1
+2018,HS,College of Health & Applied Science,CWC,Certificate-Wellness Coaching,2
+2018,HS,College of Health & Applied Science,CWS,Certificate-Water Studies,1
+2018,HS,College of Health & Applied Science,CYB,Cybersecurity,57
+2018,HS,College of Health & Applied Science,DANC,Dance,18
+2018,HS,College of Health & Applied Science,EET,Electrical Engineering Tech,188
+2018,HS,College of Health & Applied Science,EVE,Environmental Engineering,46
+2018,HS,College of Health & Applied Science,EVTM,Event & Meeting Management,184
+2018,HS,College of Health & Applied Science,EXS,Exercise Science,242
+2018,HS,College of Health & Applied Science,FERA,Fire & Emergency Response Adm,77
+2018,HS,College of Health & Applied Science,HCIS,Health Care Information System,15
+2018,HS,College of Health & Applied Science,HCM,Health Care Management,245
+2018,HS,College of Health & Applied Science,HCPS,Health Care Professional Srvcs,67
+2018,HS,College of Health & Applied Science,HND,Human Nutrition - Dietetics,329
+2018,HS,College of Health & Applied Science,HPS,Human Performance & Sport,191
+2018,HS,College of Health & Applied Science,HSP,Human Services,292
+2018,HS,College of Health & Applied Science,HTE,"Hospitality, Tourism & Events",94
+2018,HS,College of Health & Applied Science,HTL,Hotel Management,74
+2018,HS,College of Health & Applied Science,IDP,Individualized Degree Program,98
+2018,HS,College of Health & Applied Science,IHC,Integrative Health Care,161
+2018,HS,College of Health & Applied Science,IND,Industrial Design,209
+2018,HS,College of Health & Applied Science,ITP,Integrative Therapeutic Pract,15
+2018,LA,"College of Letters, Arts, & Sciences",JRN,Journalism,174
+2018,HS,College of Health & Applied Science,MET,Mechanical Engineering Tech,370
+2018,HS,College of Health & Applied Science,NUR,Nursing,212
+2018,HS,College of Health & Applied Science,PCAM,PCert-Airport Management,3
+2018,HS,College of Health & Applied Science,PCBO,PCert-Brewery Operations,9
+2018,HS,College of Health & Applied Science,PCCT,PCert-Corporate Travel,2
+2018,HS,College of Health & Applied Science,PCEE,PCert-Electrical EngineerTech,1
+2018,HS,College of Health & Applied Science,PCEV,PCert-Event & Meeting Mgt,1
+2018,HS,College of Health & Applied Science,PCHM,PCert-Hotel Management,2
+2018,HS,College of Health & Applied Science,PCME,PCert-AddManufacturingEngineer,4
+2018,HS,College of Health & Applied Science,PCNP,PCert-Nonprofit Studies,4
+2018,HS,College of Health & Applied Science,PCOR,PCert-Outdoor Rec Leadership,2
+2018,HS,College of Health & Applied Science,PCRM,PCert-Restaurant Management,1
+2018,HS,College of Health & Applied Science,PCSC,PCert-Space Commercialization,1
+2018,HS,College of Health & Applied Science,PCTR,PCert-Travel Consultant,1
+2018,HS,College of Health & Applied Science,PSWK,Prep Master Social Work,3
+2018,HS,College of Health & Applied Science,RECR,Recreation Professions,69
+2018,HS,College of Health & Applied Science,RST,Restaurant Management,42
+2018,HS,College of Health & Applied Science,SED,Special Education,1
+2018,HS,College of Health & Applied Science,SM,Sport Management,136
+2018,HS,College of Health & Applied Science,SSE,Sustainable System Engineering,20
+2018,HS,College of Health & Applied Science,SWK,Social Work,227
+2018,HS,College of Health & Applied Science,TCM,Technical Communications,117
+2018,HS,College of Health & Applied Science,TTM,Travel and Tourism Management,31
+2018,HS,College of Health & Applied Science,UND,Undeclared,2
+2018,HS,College of Health & Applied Science,UNN,Undeclared Nursing Interest,706
+2018,HS,College of Health & Applied Science,UNSW,Undeclared Social Work,176
+2019,0,No College Designated,0,Non-Degree Seeking,507
+2019,0,No College Designated,PUND,Prep External,40
+2019,BU,College of Business,ACC,Accounting,645
+2019,BU,College of Business,BNK,Banking,5
+2019,BU,College of Business,CIM,Computer Info Syst & Mgt Sci,1
+2019,BU,College of Business,CIN,Computer Information Systems,420
+2019,HS,College of Health & Applied Science,CS,Computer Science,1
+2019,BU,College of Business,ECO,Economics,99
+2019,BU,College of Business,ENT,Entrepreneurship,248
+2019,BU,College of Business,FIN,Finance,398
+2019,BU,College of Business,GBS,Global Business Studies,46
+2019,BU,College of Business,IBM,International Business,122
+2019,BU,College of Business,IDP,Individualized Degree Program,9
+2019,BU,College of Business,MGT,Management,752
+2019,BU,College of Business,MKT,Marketing,551
+2019,BU,College of Business,PACC,Prep Master Accounting,15
+2019,BU,College of Business,PCEP,PCert-Entrepreneurship,2
+2019,BU,College of Business,PCFP,PCert-Personal Financial Plan,1
+2019,BU,College of Business,PCSA,PCert-Sales,1
+2019,ED,School of Education,EDPB,SOE Applicant-Post-bac,6
+2019,ED,School of Education,EDU,Elementary Education,346
+2019,ED,School of Education,ELCE,Early Childhood Education,168
+2019,ED,School of Education,IDP,Individualized Degree Program,13
+2019,ED,School of Education,LECE,Licensure-Early Childhood Educ,6
+2019,ED,School of Education,LEDS,Licensure-Secondary Education,38
+2019,ED,School of Education,LEED,Licensure-Elementary Education,3
+2019,ED,School of Education,LK12,Licensure-K-12 Education,20
+2019,ED,School of Education,LSPL,Licensure-Special Education,2
+2019,ED,School of Education,LTIR,Licensure-Teacher in Residence,87
+2019,ED,School of Education,PETE,K-12 Physical Education,59
+2019,ED,School of Education,SED,Special Education,95
+2019,ED,School of Education,TLE,Pre-Elementary Education,1
+2019,ED,School of Education,TLS,Pre-Secondary Education,6
+2019,ED,School of Education,UNED,"Education, Undeclared",55
+2019,LA,"College of Letters, Arts, & Sciences",AFS,Africana Studies,8
+2019,LA,"College of Letters, Arts, & Sciences",ANT,Anthropology,108
+2019,LA,"College of Letters, Arts, & Sciences",ART,Art,396
+2019,LA,"College of Letters, Arts, & Sciences",ARTE,Art Education,31
+2019,LA,"College of Letters, Arts, & Sciences",ARTH,"ArtHistory,Theory&Criticism",32
+2019,LA,"College of Letters, Arts, & Sciences",BCHM,Biochemistry,128
+2019,LA,"College of Letters, Arts, & Sciences",BHS,Behavioral Science,1
+2019,LA,"College of Letters, Arts, & Sciences",BIO,Biology,1056
+2019,LA,"College of Letters, Arts, & Sciences",CDES,Communication Design,51
+2019,LA,"College of Letters, Arts, & Sciences",CHE,Chemistry,128
+2019,LA,"College of Letters, Arts, & Sciences",CHS,Chicano Studies,22
+2019,LA,"College of Letters, Arts, & Sciences",CIN,Computer Information Systems,2
+2019,LA,"College of Letters, Arts, & Sciences",COMS,Communication Studies,266
+2019,HS,College of Health & Applied Science,CS,Computer Science,620
+2019,HS,College of Health & Applied Science,CSI,Computer Science,2
+2019,LA,"College of Letters, Arts, & Sciences",ENG,English,367
+2019,LA,"College of Letters, Arts, & Sciences",ENT,Entrepreneurship,1
+2019,LA,"College of Letters, Arts, & Sciences",ENV,Environmental Science,223
+2019,LA,"College of Letters, Arts, & Sciences",GEG,Geography,42
+2019,LA,"College of Letters, Arts, & Sciences",GELA,Applied Geology,43
+2019,LA,"College of Letters, Arts, & Sciences",GSS,Geospatial Sciences,24
+2019,LA,"College of Letters, Arts, & Sciences",GWS,Gndr Women Sexualities Studies,35
+2019,LA,"College of Letters, Arts, & Sciences",HDFS,Human Dev. and Family Studies,55
+2019,LA,"College of Letters, Arts, & Sciences",HDV,Human Development,64
+2019,LA,"College of Letters, Arts, & Sciences",HIS,History,330
+2019,LA,"College of Letters, Arts, & Sciences",IDP,Individualized Degree Program,63
+2019,LA,"College of Letters, Arts, & Sciences",LIN,Linguistics,47
+2019,LA,"College of Letters, Arts, & Sciences",MDL,Modern Languages,96
+2019,LA,"College of Letters, Arts, & Sciences",MED,Music Education,89
+2019,LA,"College of Letters, Arts, & Sciences",MTH,Mathematics,181
+2019,LA,"College of Letters, Arts, & Sciences",MTR,Meteorology,40
+2019,LA,"College of Letters, Arts, & Sciences",MUS,Music,314
+2019,LA,"College of Letters, Arts, & Sciences",PCBA,PCert-BilingualEdSpecAgency,1
+2019,LA,"College of Letters, Arts, & Sciences",PCST,PCert-Spanish Translation Prog,3
+2019,LA,"College of Letters, Arts, & Sciences",PHI,Philosophy,40
+2019,LA,"College of Letters, Arts, & Sciences",PHY,Physics,56
+2019,LA,"College of Letters, Arts, & Sciences",PSC,Political Science,212
+2019,LA,"College of Letters, Arts, & Sciences",PSY,Psychology,548
+2019,LA,"College of Letters, Arts, & Sciences",PSYC,Psychology,409
+2019,LA,"College of Letters, Arts, & Sciences",PUND,Prep External,1
+2019,LA,"College of Letters, Arts, & Sciences",SLH,Speech Lang & Hearing Science,2
+2019,LA,"College of Letters, Arts, & Sciences",SOC,Sociology,97
+2019,LA,"College of Letters, Arts, & Sciences",SPC,Speech Communication,13
+2019,LA,"College of Letters, Arts, & Sciences",STA,Statistical Science,5
+2019,LA,"College of Letters, Arts, & Sciences",THE,Theatre,137
+2019,LA,"College of Letters, Arts, & Sciences",UND,Undeclared,705
+2019,LA,"College of Letters, Arts, & Sciences",UNDM,Pre-DIME,5
+2019,LA,"College of Letters, Arts, & Sciences",UNID,Undeclared IDP,98
+2019,LA,"College of Letters, Arts, & Sciences",WMS,Women's Studies,9
+2019,HS,College of Health & Applied Science,AAM,Aviation & Aerospace Mgt,95
+2019,HS,College of Health & Applied Science,AMG,Aviation Management,1
+2019,HS,College of Health & Applied Science,AMS,Advncd Manufacturing Sciences,44
+2019,HS,College of Health & Applied Science,ASC,Aviation and Aerospace Science,551
+2019,HS,College of Health & Applied Science,ATH,Athletic Training,22
+2019,HS,College of Health & Applied Science,ATP,Athletic Training,99
+2019,HS,College of Health & Applied Science,ATV,Aviation Technology,2
+2019,HS,College of Health & Applied Science,BJRN,Broadcast Journalism,46
+2019,HS,College of Health & Applied Science,BRWO,Brewery Operations,60
+2019,HS,College of Health & Applied Science,BRWP,Brew Pub Operations,1
+2019,HS,College of Health & Applied Science,CAME,Certificate-AdditiveMfgEngneer,2
+2019,HS,College of Health & Applied Science,CBO,Certificate-Brewery Operations,1
+2019,HS,College of Health & Applied Science,CBPO,Craft Brewing & Pub Operations,16
+2019,HS,College of Health & Applied Science,CET,Civil Engineering Technology,172
+2019,HS,College of Health & Applied Science,CEVT,Certificate-Event & Meeting Mg,1
+2019,HS,College of Health & Applied Science,CHM,Certificate-Hotel Management,1
+2019,HS,College of Health & Applied Science,CJC,Criminal Justice & Criminology,967
+2019,HS,College of Health & Applied Science,CNPS,Certificate-Nonprofit Studies,1
+2019,HS,College of Health & Applied Science,CPE,Computer Engineering,86
+2019,HS,College of Health & Applied Science,CPM,Construction Project Mngmt,145
+2019,HS,College of Health & Applied Science,CYB,Cybersecurity,157
+2019,HS,College of Health & Applied Science,DANC,Dance,28
+2019,HS,College of Health & Applied Science,EET,Electrical Engineering Tech,176
+2019,HS,College of Health & Applied Science,EJMP,Extended Journalism&Media Prod,6
+2019,HS,College of Health & Applied Science,EVE,Environmental Engineering,68
+2019,HS,College of Health & Applied Science,EVTM,Event & Meeting Management,148
+2019,HS,College of Health & Applied Science,EXS,Exercise Science,289
+2019,HS,College of Health & Applied Science,FERA,Fire & Emergency Response Adm,97
+2019,HS,College of Health & Applied Science,HCIS,Health Care Information System,17
+2019,HS,College of Health & Applied Science,HCM,Health Care Management,204
+2019,HS,College of Health & Applied Science,HCPS,Health Care Professional Srvcs,104
+2019,HS,College of Health & Applied Science,HND,Human Nutrition - Dietetics,253
+2019,HS,College of Health & Applied Science,HNS,Nutrition Science,2
+2019,HS,College of Health & Applied Science,HPS,Human Performance & Sport,89
+2019,HS,College of Health & Applied Science,HSP,Human Services,246
+2019,HS,College of Health & Applied Science,HTE,"Hospitality, Tourism & Events",45
+2019,HS,College of Health & Applied Science,HTL,Hotel Management,69
+2019,HS,College of Health & Applied Science,IBM,International Business,1
+2019,HS,College of Health & Applied Science,IDP,Individualized Degree Program,70
+2019,HS,College of Health & Applied Science,IHC,Integrative Health Care,153
+2019,HS,College of Health & Applied Science,IND,Industrial Design,228
+2019,HS,College of Health & Applied Science,ITP,Integrative Therapeutic Pract,3
+2019,LA,"College of Letters, Arts, & Sciences",JRN,Journalism,126
+2019,HS,College of Health & Applied Science,MET,Mechanical Engineering Tech,411
+2019,HS,College of Health & Applied Science,MPL,Media Production & Leadership,13
+2019,HS,College of Health & Applied Science,NUR,Nursing,187
+2019,HS,College of Health & Applied Science,PCAM,PCert-Airport Management,1
+2019,HS,College of Health & Applied Science,PCBO,PCert-Brewery Operations,9
+2019,HS,College of Health & Applied Science,PCEE,PCert-Electrical EngineerTech,2
+2019,HS,College of Health & Applied Science,PCEV,PCert-Event & Meeting Mgt,2
+2019,HS,College of Health & Applied Science,PCHM,PCert-Hotel Management,1
+2019,HS,College of Health & Applied Science,PCME,PCert-AddManufacturingEngineer,1
+2019,HS,College of Health & Applied Science,PCMM,PCert-Adv Comp Matrls & Mfg,3
+2019,HS,College of Health & Applied Science,PCOR,PCert-Outdoor Rec Leadership,2
+2019,HS,College of Health & Applied Science,PCSC,PCert-Space Commercialization,2
+2019,HS,College of Health & Applied Science,PCSM,PCert-Engineering Mfg,1
+2019,HS,College of Health & Applied Science,PCSS,PCert-SLHS-Leveling,3
+2019,HS,College of Health & Applied Science,PCTR,PCert-Travel Consultant,2
+2019,HS,College of Health & Applied Science,PCUA,PCert-Urban Agriculture,1
+2019,HS,College of Health & Applied Science,PNUT,Prep Master Hmn Nutr & Dietet,1
+2019,HS,College of Health & Applied Science,PR,Public Relations,15
+2019,HS,College of Health & Applied Science,PSCL,PCert-Speech-Lang Pathlgy Asst,5
+2019,HS,College of Health & Applied Science,RECR,Recreation Professions,50
+2019,HS,College of Health & Applied Science,RST,Restaurant Management,40
+2019,HS,College of Health & Applied Science,SLH,Speech Lang & Hearing Science,83
+2019,HS,College of Health & Applied Science,SLHS,"Speech, Lang, Hearing Sciences",20
+2019,HS,College of Health & Applied Science,SM,Sport Management,190
+2019,HS,College of Health & Applied Science,SSE,Sustainable System Engineering,20
+2019,HS,College of Health & Applied Science,SV,Sound and Vision,1
+2019,HS,College of Health & Applied Science,SWK,Social Work,192
+2019,HS,College of Health & Applied Science,SWKO,Social Work,73
+2019,HS,College of Health & Applied Science,TCM,Technical Communications,64
+2019,HS,College of Health & Applied Science,TTM,Travel and Tourism Management,34
+2019,HS,College of Health & Applied Science,TWE,Technical Writing & Editing,6
+2019,HS,College of Health & Applied Science,UNN,Undeclared Nursing Interest,697
+2019,HS,College of Health & Applied Science,UNSW,Undeclared Social Work,159
+2019,HS,College of Health & Applied Science,VP,Video Production,31
+2020,0,No College Designated,0,Non-Degree Seeking,423
+2020,0,No College Designated,PUND,Prep External,42
+2020,BU,College of Business,ACC,Accounting,559
+2020,BU,College of Business,BIT,Business Intelligence,44
+2020,BU,College of Business,BNK,Banking,11
+2020,BU,College of Business,CIN,Computer Information Systems,374
+2020,BU,College of Business,ECO,Economics,98
+2020,BU,College of Business,ENT,Entrepreneurship,223
+2020,BU,College of Business,FIN,Finance,384
+2020,BU,College of Business,GBS,Global Business Studies,51
+2020,BU,College of Business,IBM,International Business,122
+2020,BU,College of Business,IDP,Individualized Degree Program,5
+2020,BU,College of Business,MGT,Management,649
+2020,BU,College of Business,MGTO,Management,9
+2020,BU,College of Business,MKT,Marketing,515
+2020,BU,College of Business,MKTO,Marketing,15
+2020,BU,College of Business,PACC,Prep Master Accounting,1
+2020,BU,College of Business,PCEP,PCert-Entrepreneurship,1
+2020,BU,College of Business,PCFP,PCert-Personal Financial Plan,1
+2020,BU,College of Business,PCSA,PCert-Sales,1
+2020,ED,School of Education,EDPB,SOE Applicant-Post-bac,3
+2020,ED,School of Education,EDU,Elementary Education,335
+2020,ED,School of Education,ELCE,Early Childhood Education,187
+2020,ED,School of Education,IDP,Individualized Degree Program,5
+2020,ED,School of Education,LECE,Licensure-Early Childhood Educ,8
+2020,ED,School of Education,LEDS,Licensure-Secondary Education,39
+2020,ED,School of Education,LEED,Licensure-Elementary Education,5
+2020,ED,School of Education,LK12,Licensure-K-12 Education,16
+2020,ED,School of Education,LSPL,Licensure-Special Education,2
+2020,ED,School of Education,LTIR,Licensure-Teacher in Residence,82
+2020,ED,School of Education,PCIP,PCert-Instructional Technology,2
+2020,ED,School of Education,PCIT,PCert-Instructional Technology,1
+2020,ED,School of Education,PETE,K-12 Physical Education,50
+2020,ED,School of Education,SED,Special Education,100
+2020,ED,School of Education,TLE,Pre-Elementary Education,2
+2020,ED,School of Education,TLS,Pre-Secondary Education,7
+2020,ED,School of Education,UNED,"Education, Undeclared",55
+2020,LA,"College of Letters, Arts, & Sciences",AFS,Africana Studies,11
+2020,LA,"College of Letters, Arts, & Sciences",ANT,Anthropology,84
+2020,LA,"College of Letters, Arts, & Sciences",ART,Art,331
+2020,LA,"College of Letters, Arts, & Sciences",ARTE,Art Education,35
+2020,LA,"College of Letters, Arts, & Sciences",ARTH,"ArtHistory,Theory&Criticism",25
+2020,LA,"College of Letters, Arts, & Sciences",BCHM,Biochemistry,124
+2020,LA,"College of Letters, Arts, & Sciences",BHS,Behavioral Science,1
+2020,LA,"College of Letters, Arts, & Sciences",BIO,Biology,974
+2020,LA,"College of Letters, Arts, & Sciences",CDES,Communication Design,55
+2020,LA,"College of Letters, Arts, & Sciences",CHE,Chemistry,120
+2020,LA,"College of Letters, Arts, & Sciences",CHS,Chicano Studies,20
+2020,LA,"College of Letters, Arts, & Sciences",COMS,Communication Studies,261
+2020,HS,College of Health & Applied Science,CS,Computer Science,621
+2020,HS,College of Health & Applied Science,CSI,Computer Science,2
+2020,LA,"College of Letters, Arts, & Sciences",CST,Certificate-Span Transltn Prog,1
+2020,LA,"College of Letters, Arts, & Sciences",DANC,Dance,27
+2020,LA,"College of Letters, Arts, & Sciences",ENG,English,330
+2020,LA,"College of Letters, Arts, & Sciences",ENGO,English,7
+2020,LA,"College of Letters, Arts, & Sciences",ENV,Environmental Science,188
+2020,LA,"College of Letters, Arts, & Sciences",GEG,Geography,27
+2020,LA,"College of Letters, Arts, & Sciences",GELA,Applied Geology,38
+2020,LA,"College of Letters, Arts, & Sciences",GSS,Geospatial Sciences,29
+2020,LA,"College of Letters, Arts, & Sciences",GWS,Gndr Women Sexualities Studies,30
+2020,LA,"College of Letters, Arts, & Sciences",HDFO,Human Dev. & Family Studies,15
+2020,LA,"College of Letters, Arts, & Sciences",HDFS,Human Dev. and Family Studies,123
+2020,LA,"College of Letters, Arts, & Sciences",HDV,Human Development,20
+2020,LA,"College of Letters, Arts, & Sciences",HIS,History,313
+2020,LA,"College of Letters, Arts, & Sciences",IDP,Individualized Degree Program,33
+2020,LA,"College of Letters, Arts, & Sciences",LIN,Linguistics,55
+2020,LA,"College of Letters, Arts, & Sciences",MDL,Modern Languages,88
+2020,LA,"College of Letters, Arts, & Sciences",MED,Music Education,81
+2020,LA,"College of Letters, Arts, & Sciences",MTH,Mathematics,150
+2020,LA,"College of Letters, Arts, & Sciences",MTR,Meteorology,44
+2020,LA,"College of Letters, Arts, & Sciences",MUS,Music,159
+2020,LA,"College of Letters, Arts, & Sciences",PCGI,PCert-Geographic Info Systems,4
+2020,LA,"College of Letters, Arts, & Sciences",PCST,PCert-Spanish Translation Prog,1
+2020,LA,"College of Letters, Arts, & Sciences",PHI,Philosophy,36
+2020,LA,"College of Letters, Arts, & Sciences",PHY,Physics,43
+2020,LA,"College of Letters, Arts, & Sciences",PSC,Political Science,219
+2020,LA,"College of Letters, Arts, & Sciences",PSY,Psychology,193
+2020,LA,"College of Letters, Arts, & Sciences",PSYC,Psychology,792
+2020,LA,"College of Letters, Arts, & Sciences",PUND,Prep External,1
+2020,LA,"College of Letters, Arts, & Sciences",SLH,Speech Lang & Hearing Science,1
+2020,LA,"College of Letters, Arts, & Sciences",SOC,Sociology,108
+2020,LA,"College of Letters, Arts, & Sciences",SPC,Speech Communication,7
+2020,LA,"College of Letters, Arts, & Sciences",STA,Statistical Science,5
+2020,LA,"College of Letters, Arts, & Sciences",THE,Theatre,110
+2020,LA,"College of Letters, Arts, & Sciences",UND,Undeclared,516
+2020,LA,"College of Letters, Arts, & Sciences",UNDM,Pre-DIME,4
+2020,LA,"College of Letters, Arts, & Sciences",UNID,Undeclared IDP,122
+2020,LA,"College of Letters, Arts, & Sciences",UNTH,Undeclared Theatre - BFA,8
+2020,LA,"College of Letters, Arts, & Sciences",WMS,Women's Studies,5
+2020,HS,College of Health & Applied Science,AAM,Aviation & Aerospace Mgt,66
+2020,HS,College of Health & Applied Science,AAMO,Aviation & Aerospace Mgt,1
+2020,HS,College of Health & Applied Science,AMG,Aviation Management,1
+2020,HS,College of Health & Applied Science,AMS,Advncd Manufacturing Sciences,51
+2020,HS,College of Health & Applied Science,ASC,Aviation and Aerospace Science,542
+2020,HS,College of Health & Applied Science,ATH,Athletic Training,9
+2020,HS,College of Health & Applied Science,ATP,Athletic Training,75
+2020,HS,College of Health & Applied Science,ATV,Aviation Technology,1
+2020,HS,College of Health & Applied Science,BJRN,Broadcast Journalism,61
+2020,HS,College of Health & Applied Science,BRWO,Brewery Operations,1
+2020,HS,College of Health & Applied Science,CET,Civil Engineering Technology,180
+2020,HS,College of Health & Applied Science,CHY,Certificate-High Risk Youth,1
+2020,HS,College of Health & Applied Science,CJC,Criminal Justice & Criminology,919
+2020,HS,College of Health & Applied Science,CPE,Computer Engineering,91
+2020,HS,College of Health & Applied Science,CPM,Construction Project Mngmt,162
+2020,HS,College of Health & Applied Science,CSME,Certificate-Engineering Mfg,3
+2020,HS,College of Health & Applied Science,CSS,Certificate-SLHS-Leveling,4
+2020,HS,College of Health & Applied Science,CYB,Cybersecurity,224
+2020,HS,College of Health & Applied Science,DANC,Dance,1
+2020,HS,College of Health & Applied Science,EET,Electrical Engineering Tech,159
+2020,HS,College of Health & Applied Science,EJMP,Extended Journalism&Media Prod,9
+2020,HS,College of Health & Applied Science,EVE,Environmental Engineering,81
+2020,HS,College of Health & Applied Science,EXS,Exercise Science,317
+2020,HS,College of Health & Applied Science,FERA,Fire & Emergency Response Adm,96
+2020,HS,College of Health & Applied Science,HCIS,Health Care Information System,17
+2020,HS,College of Health & Applied Science,HCM,Health Care Management,182
+2020,HS,College of Health & Applied Science,HCMO,Health Care Management,2
+2020,HS,College of Health & Applied Science,HCPO,Health Care Professional Srvcs,10
+2020,HS,College of Health & Applied Science,HCPS,Health Care Professional Srvcs,86
+2020,HS,College of Health & Applied Science,HND,Human Nutrition - Dietetics,204
+2020,HS,College of Health & Applied Science,HNS,Nutrition Science,13
+2020,HS,College of Health & Applied Science,HPS,Human Performance & Sport,23
+2020,HS,College of Health & Applied Science,HSP,Human Services,199
+2020,HS,College of Health & Applied Science,HTE,"Hospitality, Tourism & Events",1
+2020,HS,College of Health & Applied Science,IBM,International Business,1
+2020,HS,College of Health & Applied Science,IDP,Individualized Degree Program,33
+2020,HS,College of Health & Applied Science,IHC,Integrative Health Care,109
+2020,HS,College of Health & Applied Science,IND,Industrial Design,209
+2020,LA,"College of Letters, Arts, & Sciences",JRN,Journalism,113
+2020,HS,College of Health & Applied Science,LSM,Lifestyle Medicine,13
+2020,HS,College of Health & Applied Science,MET,Mechanical Engineering Tech,355
+2020,HS,College of Health & Applied Science,MPL,Media Production & Leadership,24
+2020,HS,College of Health & Applied Science,NUR,Nursing,197
+2020,HS,College of Health & Applied Science,PCAM,PCert-Airport Management,2
+2020,HS,College of Health & Applied Science,PCEE,PCert-Electrical EngineerTech,1
+2020,HS,College of Health & Applied Science,PCHY,PCert-High Risk Youth Studies,2
+2020,HS,College of Health & Applied Science,PCNP,PCert-Nonprofit Studies,2
+2020,HS,College of Health & Applied Science,PCSC,PCert-Space Commercialization,1
+2020,HS,College of Health & Applied Science,PCSM,PCert-Engineering Mfg,2
+2020,HS,College of Health & Applied Science,PCSS,PCert-SLHS-Leveling,3
+2020,HS,College of Health & Applied Science,PNUT,Prep Master Hmn Nutr & Dietet,10
+2020,HS,College of Health & Applied Science,PR,Public Relations,20
+2020,HS,College of Health & Applied Science,PSCL,PCert-Speech-Lang Pathlgy Asst,7
+2020,HS,College of Health & Applied Science,PSWK,Prep Master Social Work,1
+2020,HS,College of Health & Applied Science,RECR,Recreation Professions,42
+2020,HS,College of Health & Applied Science,SLH,Speech Lang & Hearing Science,45
+2020,HS,College of Health & Applied Science,SLHS,"Speech, Lang, Hearing Sciences",67
+2020,HS,College of Health & Applied Science,SM,Sport Management,196
+2020,HS,College of Health & Applied Science,SSE,Sustainable System Engineering,18
+2020,HS,College of Health & Applied Science,SWK,Social Work,195
+2020,HS,College of Health & Applied Science,SWKO,Social Work,71
+2020,HS,College of Health & Applied Science,TCM,Technical Communications,27
+2020,HS,College of Health & Applied Science,TWE,Technical Writing & Editing,13
+2020,HS,College of Health & Applied Science,UNN,Undeclared Nursing Interest,757
+2020,HS,College of Health & Applied Science,UNSW,Undeclared Social Work,186
+2020,HS,College of Health & Applied Science,VP,Video Production,74
+2020,SH,School of Hospitality,BRWO,Brewery Operations,52
+2020,SH,School of Hospitality,CBO,Certificate-Brewery Operations,2
+2020,SH,School of Hospitality,CBPO,Craft Brewing & Pub Operations,16
+2020,SH,School of Hospitality,CEVT,Certificate-Event & Meeting Mg,3
+2020,SH,School of Hospitality,CHM,Certificate-Hotel Management,3
+2020,SH,School of Hospitality,CTRC,Certificate-Travel Consultant,2
+2020,SH,School of Hospitality,EVTM,Event & Meeting Management,115
+2020,SH,School of Hospitality,HLDR,Hospitality Leadership,33
+2020,SH,School of Hospitality,HTE,"Hospitality, Tourism & Events",16
+2020,SH,School of Hospitality,HTL,Hotel Management,55
+2020,SH,School of Hospitality,IDP,Individualized Degree Program,1
+2020,SH,School of Hospitality,PCBO,PCert-Brewery Operations,3
+2020,SH,School of Hospitality,PCEV,PCert-Event & Meeting Mgt,2
+2020,SH,School of Hospitality,RST,Restaurant Management,35
+2020,SH,School of Hospitality,TTM,Travel and Tourism Management,24
+2021,0,No College Designated,0,Non-Degree Seeking,607
+2021,0,No College Designated,PUND,Prep External,45
+2021,AA,Academic Affairs,CWS,Certificate-Water Studies,1
+2021,BU,College of Business,ACC,Accounting,499
+2021,BU,College of Business,BIT,Business Intelligence,162
+2021,BU,College of Business,BITO,Business Intelligence,21
+2021,BU,College of Business,BNK,Banking,15
+2021,BU,College of Business,BNKO,Banking,1
+2021,BU,College of Business,CIN,Computer Information Systems,295
+2021,BU,College of Business,ECO,Economics,77
+2021,BU,College of Business,ENT,Entrepreneurship,220
+2021,BU,College of Business,FIN,Finance,375
+2021,BU,College of Business,GBS,Global Business Studies,44
+2021,BU,College of Business,IBM,International Business,100
+2021,BU,College of Business,IDP,Individualized Degree Program,3
+2021,BU,College of Business,MGT,Management,577
+2021,BU,College of Business,MGTO,Management,25
+2021,BU,College of Business,MKT,Marketing,396
+2021,BU,College of Business,MKTO,Marketing,23
+2021,BU,College of Business,PCDM,PCert-Digital Marketing,1
+2021,BU,College of Business,PCEP,PCert-Entrepreneurship,3
+2021,BU,College of Business,PCFP,PCert-Personal Financial Plan,1
+2021,BU,College of Business,PCSA,PCert-Sales,1
+2021,BU,College of Business,PSBA,Professional Selling,10
+2021,ED,School of Education,CITO,Certificate-Instr. Tech.,1
+2021,ED,School of Education,EDPB,SOE Applicant-Post-bac,4
+2021,ED,School of Education,EDU,Elementary Education,317
+2021,ED,School of Education,ELCE,Early Childhood Education,156
+2021,ED,School of Education,IDP,Individualized Degree Program,5
+2021,ED,School of Education,LECE,Licensure-Early Childhood Educ,9
+2021,ED,School of Education,LEDS,Licensure-Secondary Education,32
+2021,ED,School of Education,LEED,Licensure-Elementary Education,1
+2021,ED,School of Education,LK12,Licensure-K-12 Education,13
+2021,ED,School of Education,LSPL,Licensure-Special Education,1
+2021,ED,School of Education,LTIR,Licensure-Teacher in Residence,79
+2021,ED,School of Education,PCIP,PCert-Instructional Technology,2
+2021,ED,School of Education,PETE,K-12 Physical Education,52
+2021,ED,School of Education,SED,Special Education,85
+2021,ED,School of Education,TLK,Pre-K-12 Education,4
+2021,ED,School of Education,TLS,Pre-Secondary Education,6
+2021,ED,School of Education,UNED,"Education, Undeclared",27
+2021,HS,College of Health & Applied Science,AAM,Aviation & Aerospace Mgt,66
+2021,HS,College of Health & Applied Science,AAMO,Aviation & Aerospace Mgt,3
+2021,HS,College of Health & Applied Science,AMG,Aviation Management,1
+2021,HS,College of Health & Applied Science,AMS,Advncd Manufacturing Sciences,52
+2021,HS,College of Health & Applied Science,ASC,Aviation and Aerospace Science,495
+2021,HS,College of Health & Applied Science,ATP,Athletic Training,28
+2021,HS,College of Health & Applied Science,ATV,Aviation Technology,1
+2021,HS,College of Health & Applied Science,CAMG,Certificate-Airport Management,1
+2021,HS,College of Health & Applied Science,CET,Civil Engineering Technology,153
+2021,HS,College of Health & Applied Science,CJC,Criminal Justice & Criminology,755
+2021,HS,College of Health & Applied Science,CNPS,Certificate-Nonprofit Studies,1
+2021,HS,College of Health & Applied Science,CPE,Computer Engineering,102
+2021,HS,College of Health & Applied Science,CPM,Construction Project Mngmt,165
+2021,HS,College of Health & Applied Science,CS,Computer Science,558
+2021,HS,College of Health & Applied Science,CSC,Certificate-Space Commercltzn,1
+2021,HS,College of Health & Applied Science,CSI,Computer Science,1
+2021,HS,College of Health & Applied Science,CSME,Certificate-Engineering Mfg,3
+2021,HS,College of Health & Applied Science,CSS,Certificate-SLHS-Leveling,1
+2021,HS,College of Health & Applied Science,CWS,Certificate-Water Studies,1
+2021,HS,College of Health & Applied Science,CYB,Cybersecurity,269
+2021,HS,College of Health & Applied Science,EET,Electrical Engineering Tech,144
+2021,HS,College of Health & Applied Science,EVE,Environmental Engineering,67
+2021,HS,College of Health & Applied Science,EXS,Exercise Science,317
+2021,HS,College of Health & Applied Science,FERA,Fire & Emergency Response Adm,78
+2021,HS,College of Health & Applied Science,HCIS,Health Care Information System,20
+2021,HS,College of Health & Applied Science,HCM,Health Care Management,148
+2021,HS,College of Health & Applied Science,HCMO,Health Care Management,13
+2021,HS,College of Health & Applied Science,HCPO,Health Care Professional Srvcs,17
+2021,HS,College of Health & Applied Science,HCPS,Health Care Professional Srvcs,84
+2021,HS,College of Health & Applied Science,HND,Human Nutrition - Dietetics,137
+2021,HS,College of Health & Applied Science,HNS,Nutrition Science,11
+2021,HS,College of Health & Applied Science,HPS,Human Performance & Sport,3
+2021,HS,College of Health & Applied Science,HSP,Human Services,165
+2021,HS,College of Health & Applied Science,IBM,International Business,1
+2021,HS,College of Health & Applied Science,IDP,Individualized Degree Program,23
+2021,HS,College of Health & Applied Science,IHC,Integrative Health Care,100
+2021,HS,College of Health & Applied Science,IND,Industrial Design,177
+2021,HS,College of Health & Applied Science,LSM,Lifestyle Medicine,27
+2021,HS,College of Health & Applied Science,MET,Mechanical Engineering Tech,338
+2021,HS,College of Health & Applied Science,NUD,Nutrition and Dietetics,31
+2021,HS,College of Health & Applied Science,NUR,Nursing,115
+2021,HS,College of Health & Applied Science,NURO,Nursing- BRNCO,36
+2021,HS,College of Health & Applied Science,PCAM,PCert-Airport Management,2
+2021,HS,College of Health & Applied Science,PCNP,PCert-Nonprofit Studies,1
+2021,HS,College of Health & Applied Science,PCSM,PCert-Engineering Mfg,2
+2021,HS,College of Health & Applied Science,PCSS,PCert-SLHS-Leveling,5
+2021,HS,College of Health & Applied Science,PCUC,PCert-Unmanned Aircraft System,1
+2021,HS,College of Health & Applied Science,PCWS,PCert-Water Studies,1
+2021,HS,College of Health & Applied Science,PNUD,Prep Master Nutrition&Dietetic,4
+2021,HS,College of Health & Applied Science,PNUT,Prep Master Hmn Nutr & Dietet,1
+2021,HS,College of Health & Applied Science,PSCL,PCert-Speech-Lang Pathlgy Asst,2
+2021,HS,College of Health & Applied Science,PUB,Public Health,6
+2021,HS,College of Health & Applied Science,RECR,Recreation Professions,20
+2021,HS,College of Health & Applied Science,SLH,Speech Lang & Hearing Science,20
+2021,HS,College of Health & Applied Science,SLHS,"Speech, Lang, Hearing Sciences",66
+2021,HS,College of Health & Applied Science,SM,Sport Management,166
+2021,HS,College of Health & Applied Science,SSE,Sustainable System Engineering,13
+2021,HS,College of Health & Applied Science,SWK,Social Work,194
+2021,HS,College of Health & Applied Science,SWKM,Social Work - MSW,1
+2021,HS,College of Health & Applied Science,SWKO,Social Work,90
+2021,HS,College of Health & Applied Science,UNN,Undeclared Nursing Interest,597
+2021,HS,College of Health & Applied Science,UNSW,Undeclared Social Work,163
+2021,LA,"College of Letters, Arts, & Sciences",AFS,Africana Studies,8
+2021,LA,"College of Letters, Arts, & Sciences",ANT,Anthropology,86
+2021,LA,"College of Letters, Arts, & Sciences",ART,Art,324
+2021,LA,"College of Letters, Arts, & Sciences",ARTE,Art Education,26
+2021,LA,"College of Letters, Arts, & Sciences",ARTH,"ArtHistory,Theory&Criticism",31
+2021,LA,"College of Letters, Arts, & Sciences",BCHM,Biochemistry,98
+2021,LA,"College of Letters, Arts, & Sciences",BIO,Biology,797
+2021,LA,"College of Letters, Arts, & Sciences",BJRN,Broadcast Journalism,58
+2021,LA,"College of Letters, Arts, & Sciences",CDES,Communication Design,48
+2021,LA,"College of Letters, Arts, & Sciences",CGIS,Certificate-Geographic Info Sy,1
+2021,LA,"College of Letters, Arts, & Sciences",CHE,Chemistry,117
+2021,LA,"College of Letters, Arts, & Sciences",CHS,Chicano Studies,13
+2021,LA,"College of Letters, Arts, & Sciences",COMS,Communication Studies,218
+2021,HS,College of Health & Applied Science,CS,Computer Science,13
+2021,LA,"College of Letters, Arts, & Sciences",CST,Certificate-Span Transltn Prog,4
+2021,LA,"College of Letters, Arts, & Sciences",DANC,Dance,23
+2021,LA,"College of Letters, Arts, & Sciences",EJMP,Extended Journalism&Media Prod,5
+2021,LA,"College of Letters, Arts, & Sciences",ENG,English,307
+2021,LA,"College of Letters, Arts, & Sciences",ENGO,English,21
+2021,LA,"College of Letters, Arts, & Sciences",ENV,Environmental Science,160
+2021,LA,"College of Letters, Arts, & Sciences",GEG,Geography,18
+2021,LA,"College of Letters, Arts, & Sciences",GELA,Applied Geology,36
+2021,LA,"College of Letters, Arts, & Sciences",GSS,Geospatial Sciences,18
+2021,LA,"College of Letters, Arts, & Sciences",GWS,Gndr Women Sexualities Studies,27
+2021,LA,"College of Letters, Arts, & Sciences",HDFO,Human Dev. & Family Studies,37
+2021,LA,"College of Letters, Arts, & Sciences",HDFS,Human Dev. and Family Studies,131
+2021,LA,"College of Letters, Arts, & Sciences",HDV,Human Development,9
+2021,LA,"College of Letters, Arts, & Sciences",HIS,History,271
+2021,LA,"College of Letters, Arts, & Sciences",IDP,Individualized Degree Program,24
+2021,LA,"College of Letters, Arts, & Sciences",JRN,Journalism,88
+2021,LA,"College of Letters, Arts, & Sciences",LIN,Linguistics,56
+2021,LA,"College of Letters, Arts, & Sciences",MDL,Modern Languages,84
+2021,LA,"College of Letters, Arts, & Sciences",MED,Music Education,63
+2021,LA,"College of Letters, Arts, & Sciences",MPL,Media Production & Leadership,31
+2021,LA,"College of Letters, Arts, & Sciences",MTH,Mathematics,129
+2021,LA,"College of Letters, Arts, & Sciences",MTR,Meteorology,33
+2021,LA,"College of Letters, Arts, & Sciences",MUS,Music,134
+2021,LA,"College of Letters, Arts, & Sciences",PCGI,PCert-Geographic Info Systems,5
+2021,LA,"College of Letters, Arts, & Sciences",PHI,Philosophy,34
+2021,LA,"College of Letters, Arts, & Sciences",PHY,Physics,37
+2021,LA,"College of Letters, Arts, & Sciences",PR,Public Relations,17
+2021,LA,"College of Letters, Arts, & Sciences",PSC,Political Science,189
+2021,LA,"College of Letters, Arts, & Sciences",PSY,Psychology,67
+2021,LA,"College of Letters, Arts, & Sciences",PSYC,Psychology,940
+2021,LA,"College of Letters, Arts, & Sciences",PSYO,Psychology,17
+2021,LA,"College of Letters, Arts, & Sciences",SLH,Speech Lang & Hearing Science,1
+2021,LA,"College of Letters, Arts, & Sciences",SOC,Sociology,82
+2021,LA,"College of Letters, Arts, & Sciences",SPC,Speech Communication,2
+2021,LA,"College of Letters, Arts, & Sciences",STA,Statistical Science,10
+2021,LA,"College of Letters, Arts, & Sciences",TCM,Technical Communications,13
+2021,LA,"College of Letters, Arts, & Sciences",THE,Theatre,92
+2021,LA,"College of Letters, Arts, & Sciences",TWE,Technical Writing & Editing,13
+2021,LA,"College of Letters, Arts, & Sciences",UND,Undeclared,463
+2021,LA,"College of Letters, Arts, & Sciences",UNID,Undeclared IDP,100
+2021,LA,"College of Letters, Arts, & Sciences",UNSW,Undeclared Social Work,1
+2021,LA,"College of Letters, Arts, & Sciences",UNTH,Undeclared Theatre - BFA,14
+2021,LA,"College of Letters, Arts, & Sciences",VP,Video Production,78
+2021,LA,"College of Letters, Arts, & Sciences",WMS,Women's Studies,3
+2021,HS,College of Health & Applied Science,AAM,Aviation & Aerospace Mgt,2
+2021,HS,College of Health & Applied Science,ASC,Aviation and Aerospace Science,9
+2021,HS,College of Health & Applied Science,ATP,Athletic Training,1
+2021,HS,College of Health & Applied Science,BRWO,Brewery Operations,2
+2021,HS,College of Health & Applied Science,CJC,Criminal Justice & Criminology,10
+2021,HS,College of Health & Applied Science,CPM,Construction Project Mngmt,4
+2021,HS,College of Health & Applied Science,CSME,Certificate-Engineering Mfg,1
+2021,HS,College of Health & Applied Science,CTRC,Certificate-Travel Consultant,1
+2021,HS,College of Health & Applied Science,CYB,Cybersecurity,5
+2021,HS,College of Health & Applied Science,EET,Electrical Engineering Tech,2
+2021,HS,College of Health & Applied Science,EJMP,Extended Journalism&Media Prod,1
+2021,HS,College of Health & Applied Science,EVE,Environmental Engineering,1
+2021,HS,College of Health & Applied Science,EXS,Exercise Science,10
+2021,HS,College of Health & Applied Science,FERA,Fire & Emergency Response Adm,2
+2021,HS,College of Health & Applied Science,HCIS,Health Care Information System,1
+2021,HS,College of Health & Applied Science,HCM,Health Care Management,3
+2021,HS,College of Health & Applied Science,HCPO,Health Care Professional Srvcs,1
+2021,HS,College of Health & Applied Science,HCPS,Health Care Professional Srvcs,1
+2021,HS,College of Health & Applied Science,HND,Human Nutrition - Dietetics,6
+2021,HS,College of Health & Applied Science,HPS,Human Performance & Sport,1
+2021,HS,College of Health & Applied Science,HSP,Human Services,3
+2021,HS,College of Health & Applied Science,IDP,Individualized Degree Program,1
+2021,HS,College of Health & Applied Science,IHC,Integrative Health Care,1
+2021,LA,"College of Letters, Arts, & Sciences",JRN,Journalism,2
+2021,HS,College of Health & Applied Science,LSM,Lifestyle Medicine,3
+2021,HS,College of Health & Applied Science,MET,Mechanical Engineering Tech,10
+2021,HS,College of Health & Applied Science,NUR,Nursing,1
+2021,HS,College of Health & Applied Science,PNUT,Prep Master Hmn Nutr & Dietet,1
+2021,HS,College of Health & Applied Science,PR,Public Relations,1
+2021,HS,College of Health & Applied Science,RST,Restaurant Management,1
+2021,HS,College of Health & Applied Science,SLHS,"Speech, Lang, Hearing Sciences",4
+2021,HS,College of Health & Applied Science,SM,Sport Management,2
+2021,HS,College of Health & Applied Science,SSE,Sustainable System Engineering,2
+2021,HS,College of Health & Applied Science,SWK,Social Work,1
+2021,HS,College of Health & Applied Science,UNN,Undeclared Nursing Interest,37
+2021,HS,College of Health & Applied Science,UNSW,Undeclared Social Work,4
+2021,HS,College of Health & Applied Science,VP,Video Production,1
+2021,SH,School of Hospitality,BRWO,Brewery Operations,56
+2021,SH,School of Hospitality,CBO,Certificate-Brewery Operations,1
+2021,SH,School of Hospitality,CBPO,Craft Brewing & Pub Operations,9
+2021,SH,School of Hospitality,CHM,Certificate-Hotel Management,1
+2021,SH,School of Hospitality,EVTM,Event & Meeting Management,91
+2021,SH,School of Hospitality,HLDR,Hospitality Leadership,60
+2021,SH,School of Hospitality,HTE,"Hospitality, Tourism & Events",7
+2021,SH,School of Hospitality,HTL,Hotel Management,30
+2021,SH,School of Hospitality,IDP,Individualized Degree Program,3
+2021,SH,School of Hospitality,RST,Restaurant Management,15
+2021,SH,School of Hospitality,TTM,Travel and Tourism Management,14
+2022,0,No College Designated,0,Non-Degree Seeking,224
+2022,0,No College Designated,PUND,Prep External,20
+2022,AA,Academic Affairs,CWS,Certificate-Water Studies,1
+2022,BU,College of Business,ACC,Accounting,435
+2022,BU,College of Business,ACCO,Accounting,23
+2022,BU,College of Business,BIO,Biology,1
+2022,BU,College of Business,BIT,Business Intelligence,196
+2022,BU,College of Business,BITO,Business Intelligence,32
+2022,BU,College of Business,BNK,Banking,19
+2022,BU,College of Business,BNKO,Banking,6
+2022,BU,College of Business,BSBA,Business Administration,37
+2022,BU,College of Business,CIN,Computer Information Systems,253
+2022,BU,College of Business,ECO,Economics,46
+2022,BU,College of Business,ENT,Entrepreneurship,198
+2022,BU,College of Business,FERA,Fire & Emergency Response Adm,1
+2022,BU,College of Business,FIN,Finance,342
+2022,BU,College of Business,GBS,Global Business Studies,32
+2022,BU,College of Business,HR,Human Resource Management,16
+2022,BU,College of Business,IBM,International Business,117
+2022,BU,College of Business,IDP,Individualized Degree Program,2
+2022,BU,College of Business,MGT,Management,490
+2022,BU,College of Business,MGTO,Management,53
+2022,BU,College of Business,MKT,Marketing,347
+2022,BU,College of Business,MKTO,Marketing,34
+2022,BU,College of Business,PCBP,PCert-Business Pathways,4
+2022,BU,College of Business,PCDM,PCert-Digital Marketing,1
+2022,BU,College of Business,PCEP,PCert-Entrepreneurship,7
+2022,BU,College of Business,PCFP,PCert-Personal Financial Plan,1
+2022,BU,College of Business,PSBA,Professional Selling,15
+2022,BU,College of Business,PSBO,Professional Selling,1
+2022,ED,School of Education,EDU,Elementary Education,271
+2022,ED,School of Education,ELCE,Early Childhood Education,157
+2022,ED,School of Education,IDP,Individualized Degree Program,5
+2022,ED,School of Education,LECE,Licensure-Early Childhood Educ,6
+2022,ED,School of Education,LEDS,Licensure-Secondary Education,27
+2022,ED,School of Education,LEED,Licensure-Elementary Education,1
+2022,ED,School of Education,LK12,Licensure-K-12 Education,6
+2022,ED,School of Education,LSPL,Licensure-Special Education,1
+2022,ED,School of Education,LTIR,Licensure-Teacher in Residence,76
+2022,ED,School of Education,PALP,SOE Applicant-ALP,2
+2022,ED,School of Education,PCIP,PCert-Instructional Technology,2
+2022,ED,School of Education,PCIT,PCert-Instructional Technology,1
+2022,ED,School of Education,PCLD,PCert-BilingEdSpecSchlEducator,2
+2022,ED,School of Education,PETE,K-12 Physical Education,47
+2022,ED,School of Education,SED,Special Education,76
+2022,ED,School of Education,TLK,Pre-K-12 Education,2
+2022,ED,School of Education,TLS,Pre-Secondary Education,7
+2022,ED,School of Education,UNED,"Education, Undeclared",55
+2022,HS,College of Health & Applied Science,AAM,Aviation & Aerospace Mgt,80
+2022,HS,College of Health & Applied Science,AAMO,Aviation & Aerospace Mgt,12
+2022,HS,College of Health & Applied Science,AMS,Advncd Manufacturing Sciences,54
+2022,HS,College of Health & Applied Science,ASC,Aviation and Aerospace Science,573
+2022,HS,College of Health & Applied Science,ATP,Athletic Training,9
+2022,HS,College of Health & Applied Science,CAME,Certificate-AdditiveMfgEngneer,1
+2022,HS,College of Health & Applied Science,CAMG,Certificate-Airport Management,1
+2022,HS,College of Health & Applied Science,CASL,Certificate-Aging Services Ldr,1
+2022,HS,College of Health & Applied Science,CET,Civil Engineering Technology,136
+2022,HS,College of Health & Applied Science,CHLD,Certificate-HealthDataScience,1
+2022,HS,College of Health & Applied Science,CJC,Criminal Justice & Criminology,693
+2022,HS,College of Health & Applied Science,CPE,Computer Engineering,121
+2022,HS,College of Health & Applied Science,CPM,Construction Project Mngmt,157
+2022,HS,College of Health & Applied Science,CS,Computer Science,575
+2022,HS,College of Health & Applied Science,CSI,Computer Science,1
+2022,HS,College of Health & Applied Science,CSME,Certificate-Engineering Mfg,2
+2022,HS,College of Health & Applied Science,CYB,Cybersecurity,327
+2022,HS,College of Health & Applied Science,EET,Electrical Engineering Tech,154
+2022,HS,College of Health & Applied Science,EVE,Environmental Engineering,67
+2022,HS,College of Health & Applied Science,EXS,Exercise Science,323
+2022,HS,College of Health & Applied Science,FERA,Fire & Emergency Response Adm,68
+2022,HS,College of Health & Applied Science,HCIS,Health Care Information System,18
+2022,HS,College of Health & Applied Science,HCM,Health Care Management,138
+2022,HS,College of Health & Applied Science,HCMO,Health Care Management,17
+2022,HS,College of Health & Applied Science,HCPO,Health Care Professional Srvcs,23
+2022,HS,College of Health & Applied Science,HCPS,Health Care Professional Srvcs,90
+2022,HS,College of Health & Applied Science,HND,Human Nutrition - Dietetics,67
+2022,HS,College of Health & Applied Science,HNS,Nutrition Science,14
+2022,HS,College of Health & Applied Science,HSP,Human Services,128
+2022,HS,College of Health & Applied Science,IDP,Individualized Degree Program,12
+2022,HS,College of Health & Applied Science,IHC,Integrative Health Care,103
+2022,HS,College of Health & Applied Science,IND,Industrial Design,159
+2022,HS,College of Health & Applied Science,LSM,Lifestyle Medicine,40
+2022,HS,College of Health & Applied Science,MET,Mechanical Engineering Tech,309
+2022,HS,College of Health & Applied Science,NUD,Nutrition and Dietetics,80
+2022,HS,College of Health & Applied Science,NUR,Nursing,102
+2022,HS,College of Health & Applied Science,NURO,Nursing- BRNCO,23
+2022,HS,College of Health & Applied Science,PCAL,PCert-Aging Services Leadershp,3
+2022,HS,College of Health & Applied Science,PCAM,PCert-Airport Management,3
+2022,HS,College of Health & Applied Science,PCAO,PCert-Airport Management,1
+2022,HS,College of Health & Applied Science,PCLA,PCert-Lactation Education,1
+2022,HS,College of Health & Applied Science,PCME,PCert-AddManufacturingEngineer,4
+2022,HS,College of Health & Applied Science,PCNP,PCert-Nonprofit Studies,1
+2022,HS,College of Health & Applied Science,PCSC,PCert-Space Commercialization,2
+2022,HS,College of Health & Applied Science,PCSM,PCert-Engineering Mfg,7
+2022,HS,College of Health & Applied Science,PCSS,PCert-SLHS-Leveling,6
+2022,HS,College of Health & Applied Science,PCUC,PCert-Unmanned Aircraft System,17
+2022,HS,College of Health & Applied Science,PNUD,Prep Master Nutrition&Dietetic,9
+2022,HS,College of Health & Applied Science,PSCL,PCert-Speech-Lang Pathlgy Asst,5
+2022,HS,College of Health & Applied Science,PSWK,Prep Master Social Work,1
+2022,HS,College of Health & Applied Science,PUB,Public Health,22
+2022,HS,College of Health & Applied Science,RECR,Recreation Professions,5
+2022,HS,College of Health & Applied Science,SLH,Speech Lang & Hearing Science,6
+2022,HS,College of Health & Applied Science,SLHS,"Speech, Lang, Hearing Sciences",71
+2022,HS,College of Health & Applied Science,SM,Sport Management,167
+2022,HS,College of Health & Applied Science,SSE,Sustainable System Engineering,10
+2022,HS,College of Health & Applied Science,SWK,Social Work,149
+2022,HS,College of Health & Applied Science,SWKO,Social Work,109
+2022,HS,College of Health & Applied Science,UNN,Undeclared Nursing Interest,607
+2022,HS,College of Health & Applied Science,UNSW,Undeclared Social Work,142
+2022,LA,"College of Letters, Arts, & Sciences",AFS,Africana Studies,9
+2022,LA,"College of Letters, Arts, & Sciences",ANT,Anthropology,92
+2022,LA,"College of Letters, Arts, & Sciences",ANTO,Anthropology,4
+2022,LA,"College of Letters, Arts, & Sciences",ART,Art,353
+2022,LA,"College of Letters, Arts, & Sciences",ARTE,Art Education,20
+2022,LA,"College of Letters, Arts, & Sciences",ARTH,"ArtHistory,Theory&Criticism",26
+2022,LA,"College of Letters, Arts, & Sciences",BCHM,Biochemistry,109
+2022,LA,"College of Letters, Arts, & Sciences",BIO,Biology,707
+2022,LA,"College of Letters, Arts, & Sciences",BJRN,Broadcast Journalism,51
+2022,LA,"College of Letters, Arts, & Sciences",CDES,Communication Design,27
+2022,LA,"College of Letters, Arts, & Sciences",CGIS,Certificate-Geographic Info Sy,2
+2022,LA,"College of Letters, Arts, & Sciences",CHE,Chemistry,91
+2022,LA,"College of Letters, Arts, & Sciences",CHS,Chicano Studies,27
+2022,LA,"College of Letters, Arts, & Sciences",COMS,Communication Studies,182
+2022,HS,College of Health & Applied Science,CS,Computer Science,2
+2022,LA,"College of Letters, Arts, & Sciences",DANC,Dance,30
+2022,LA,"College of Letters, Arts, & Sciences",EJMP,Extended Journalism&Media Prod,5
+2022,LA,"College of Letters, Arts, & Sciences",ENG,English,283
+2022,LA,"College of Letters, Arts, & Sciences",ENGO,English,39
+2022,LA,"College of Letters, Arts, & Sciences",ENV,Environmental Science,155
+2022,LA,"College of Letters, Arts, & Sciences",GEG,Geography,21
+2022,LA,"College of Letters, Arts, & Sciences",GELA,Applied Geology,27
+2022,LA,"College of Letters, Arts, & Sciences",GSS,Geospatial Sciences,10
+2022,LA,"College of Letters, Arts, & Sciences",GWS,Gndr Women Sexualities Studies,31
+2022,LA,"College of Letters, Arts, & Sciences",HDFO,Human Dev. & Family Studies,52
+2022,LA,"College of Letters, Arts, & Sciences",HDFS,Human Dev. and Family Studies,124
+2022,LA,"College of Letters, Arts, & Sciences",HDV,Human Development,2
+2022,LA,"College of Letters, Arts, & Sciences",HIS,History,227
+2022,LA,"College of Letters, Arts, & Sciences",IDP,Individualized Degree Program,21
+2022,LA,"College of Letters, Arts, & Sciences",JRN,Journalism,81
+2022,LA,"College of Letters, Arts, & Sciences",LIN,Linguistics,56
+2022,LA,"College of Letters, Arts, & Sciences",MDL,Modern Languages,77
+2022,LA,"College of Letters, Arts, & Sciences",MED,Music Education,75
+2022,LA,"College of Letters, Arts, & Sciences",MPL,Media Production & Leadership,31
+2022,LA,"College of Letters, Arts, & Sciences",MTH,Mathematics,93
+2022,LA,"College of Letters, Arts, & Sciences",MTR,Meteorology,31
+2022,LA,"College of Letters, Arts, & Sciences",MUS,Music,130
+2022,LA,"College of Letters, Arts, & Sciences",PCBA,PCert-BilingualEdSpecAgency,1
+2022,LA,"College of Letters, Arts, & Sciences",PCST,PCert-Spanish Translation Prog,3
+2022,LA,"College of Letters, Arts, & Sciences",PHI,Philosophy,37
+2022,LA,"College of Letters, Arts, & Sciences",PHY,Physics,44
+2022,LA,"College of Letters, Arts, & Sciences",PR,Public Relations,23
+2022,LA,"College of Letters, Arts, & Sciences",PSC,Political Science,163
+2022,LA,"College of Letters, Arts, & Sciences",PSCO,Political Science,9
+2022,LA,"College of Letters, Arts, & Sciences",PSY,Psychology,26
+2022,LA,"College of Letters, Arts, & Sciences",PSYC,Psychology,926
+2022,LA,"College of Letters, Arts, & Sciences",PSYO,Psychology,99
+2022,LA,"College of Letters, Arts, & Sciences",SLH,Speech Lang & Hearing Science,1
+2022,LA,"College of Letters, Arts, & Sciences",SOC,Sociology,79
+2022,LA,"College of Letters, Arts, & Sciences",STA,Statistical Science,16
+2022,LA,"College of Letters, Arts, & Sciences",TCM,Technical Communications,7
+2022,LA,"College of Letters, Arts, & Sciences",THE,Theatre,86
+2022,LA,"College of Letters, Arts, & Sciences",TWE,Technical Writing & Editing,13
+2022,LA,"College of Letters, Arts, & Sciences",UND,Undeclared,795
+2022,LA,"College of Letters, Arts, & Sciences",UNID,Undeclared IDP,95
+2022,LA,"College of Letters, Arts, & Sciences",UNTH,Undeclared Theatre - BFA,5
+2022,LA,"College of Letters, Arts, & Sciences",VP,Video Production,85
+2022,LA,"College of Letters, Arts, & Sciences",WMS,Women's Studies,1
+2022,HS,College of Health & Applied Science,ASC,Aviation and Aerospace Science,1
+2022,HS,College of Health & Applied Science,CJC,Criminal Justice & Criminology,17
+2022,HS,College of Health & Applied Science,CTRC,Certificate-Travel Consultant,1
+2022,HS,College of Health & Applied Science,SLH,Speech Lang & Hearing Science,1
+2022,HS,College of Health & Applied Science,SLHS,"Speech, Lang, Hearing Sciences",1
+2022,HS,College of Health & Applied Science,TWE,Technical Writing & Editing,2
+2022,SH,School of Hospitality,BRWO,Brewery Operations,36
+2022,SH,School of Hospitality,CBPO,Craft Brewing & Pub Operations,7
+2022,SH,School of Hospitality,EVTM,Event & Meeting Management,74
+2022,SH,School of Hospitality,HLDR,Hospitality Leadership,94
+2022,SH,School of Hospitality,HTE,"Hospitality, Tourism & Events",3
+2022,SH,School of Hospitality,HTL,Hotel Management,28
+2022,SH,School of Hospitality,RST,Restaurant Management,7
+2022,SH,School of Hospitality,TTM,Travel and Tourism Management,5
